@@ -1,0 +1,282 @@
+[
+ {
+  "calendarDate": "2026-10-17",
+  "values": {
+   "highStressDuration": 1440,
+   "lowStressDuration": 11220,
+   "mediumStressDuration": 6060,
+   "overallStressLevel": 23,
+   "restStressDuration": 34620
+  }
+ },
+ {
+  "calendarDate": "2026-10-18",
+  "values": {
+   "highStressDuration": 11820,
+   "lowStressDuration": 8100,
+   "mediumStressDuration": 9240,
+   "overallStressLevel": 47,
+   "restStressDuration": 17100
+  }
+ },
+ {
+  "calendarDate": "2026-10-19",
+  "values": {
+   "highStressDuration": 2220,
+   "lowStressDuration": 7020,
+   "mediumStressDuration": 3360,
+   "overallStressLevel": 18,
+   "restStressDuration": 57540
+  }
+ },
+ {
+  "calendarDate": "2026-10-20",
+  "values": {
+   "highStressDuration": 3540,
+   "lowStressDuration": 18600,
+   "mediumStressDuration": 6420,
+   "overallStressLevel": 26,
+   "restStressDuration": 40980
+  }
+ },
+ {
+  "calendarDate": "2026-10-21",
+  "values": {
+   "highStressDuration": 11580,
+   "lowStressDuration": 14640,
+   "mediumStressDuration": 8040,
+   "overallStressLevel": 36,
+   "restStressDuration": 32400
+  }
+ },
+ {
+  "calendarDate": "2026-10-22",
+  "values": {
+   "highStressDuration": 2280,
+   "lowStressDuration": 7800,
+   "mediumStressDuration": 7740,
+   "overallStressLevel": 28,
+   "restStressDuration": 32160
+  }
+ },
+ {
+  "calendarDate": "2026-10-23",
+  "values": {
+   "highStressDuration": 2460,
+   "lowStressDuration": 6300,
+   "mediumStressDuration": 10080,
+   "overallStressLevel": 52,
+   "restStressDuration": 3360
+  }
+ },
+ {
+  "calendarDate": "2026-10-24",
+  "values": {
+   "highStressDuration": 1620,
+   "lowStressDuration": 20460,
+   "mediumStressDuration": 10800,
+   "overallStressLevel": 32,
+   "restStressDuration": 29820
+  }
+ },
+ {
+  "calendarDate": "2026-10-25",
+  "values": {
+   "highStressDuration": 1500,
+   "lowStressDuration": 19620,
+   "mediumStressDuration": 6300,
+   "overallStressLevel": 25,
+   "restStressDuration": 48720
+  }
+ },
+ {
+  "calendarDate": "2026-10-26",
+  "values": {
+   "highStressDuration": 1740,
+   "lowStressDuration": 6960,
+   "mediumStressDuration": 4860,
+   "overallStressLevel": 25,
+   "restStressDuration": 29700
+  }
+ },
+ {
+  "calendarDate": "2026-10-27",
+  "values": {
+   "highStressDuration": 960,
+   "lowStressDuration": 11520,
+   "mediumStressDuration": 5160,
+   "overallStressLevel": 23,
+   "restStressDuration": 45420
+  }
+ },
+ {
+  "calendarDate": "2026-10-28",
+  "values": {
+   "highStressDuration": 3180,
+   "lowStressDuration": 17520,
+   "mediumStressDuration": 7080,
+   "overallStressLevel": 28,
+   "restStressDuration": 38820
+  }
+ },
+ {
+  "calendarDate": "2026-10-29",
+  "values": {
+   "highStressDuration": 3240,
+   "lowStressDuration": 10740,
+   "mediumStressDuration": 9000,
+   "overallStressLevel": 27,
+   "restStressDuration": 39960
+  }
+ },
+ {
+  "calendarDate": "2026-10-30",
+  "values": {
+   "highStressDuration": 6480,
+   "lowStressDuration": 14640,
+   "mediumStressDuration": 22140,
+   "overallStressLevel": 40,
+   "restStressDuration": 28320
+  }
+ },
+ {
+  "calendarDate": "2026-10-31",
+  "values": {
+   "highStressDuration": 11700,
+   "lowStressDuration": 8520,
+   "mediumStressDuration": 16860,
+   "overallStressLevel": 42,
+   "restStressDuration": 26520
+  }
+ },
+ {
+  "calendarDate": "2026-11-01",
+  "values": {
+   "highStressDuration": 11100,
+   "lowStressDuration": 16200,
+   "mediumStressDuration": 11580,
+   "overallStressLevel": 42,
+   "restStressDuration": 25680
+  }
+ },
+ {
+  "calendarDate": "2026-11-02",
+  "values": {
+   "highStressDuration": 2100,
+   "lowStressDuration": 29580,
+   "mediumStressDuration": 11040,
+   "overallStressLevel": 33,
+   "restStressDuration": 34140
+  }
+ },
+ {
+  "calendarDate": "2026-11-03",
+  "values": {
+   "highStressDuration": 4740,
+   "lowStressDuration": 21600,
+   "mediumStressDuration": 16200,
+   "overallStressLevel": 36,
+   "restStressDuration": 27060
+  }
+ },
+ {
+  "calendarDate": "2026-11-04",
+  "values": {
+   "highStressDuration": 10380,
+   "lowStressDuration": 16740,
+   "mediumStressDuration": 14880,
+   "overallStressLevel": 45,
+   "restStressDuration": 17520
+  }
+ },
+ {
+  "calendarDate": "2026-11-05",
+  "values": {
+   "highStressDuration": 2400,
+   "lowStressDuration": 24720,
+   "mediumStressDuration": 14040,
+   "overallStressLevel": 37,
+   "restStressDuration": 22200
+  }
+ },
+ {
+  "calendarDate": "2026-11-06",
+  "values": {
+   "highStressDuration": 5340,
+   "lowStressDuration": 22680,
+   "mediumStressDuration": 15840,
+   "overallStressLevel": 38,
+   "restStressDuration": 25020
+  }
+ },
+ {
+  "calendarDate": "2026-11-07",
+  "values": {
+   "highStressDuration": 1560,
+   "lowStressDuration": 19020,
+   "mediumStressDuration": 11820,
+   "overallStressLevel": 35,
+   "restStressDuration": 23040
+  }
+ },
+ {
+  "calendarDate": "2026-11-08",
+  "values": {
+   "highStressDuration": 2220,
+   "lowStressDuration": 11460,
+   "mediumStressDuration": 6060,
+   "overallStressLevel": 26,
+   "restStressDuration": 37680
+  }
+ },
+ {
+  "calendarDate": "2026-11-09",
+  "values": {
+   "highStressDuration": 2580,
+   "lowStressDuration": 18360,
+   "mediumStressDuration": 11820,
+   "overallStressLevel": 30,
+   "restStressDuration": 37860
+  }
+ },
+ {
+  "calendarDate": "2026-11-10",
+  "values": {
+   "highStressDuration": 7800,
+   "lowStressDuration": 15660,
+   "mediumStressDuration": 12660,
+   "overallStressLevel": 35,
+   "restStressDuration": 33360
+  }
+ },
+ {
+  "calendarDate": "2026-11-11",
+  "values": {
+   "highStressDuration": 1500,
+   "lowStressDuration": 20820,
+   "mediumStressDuration": 6840,
+   "overallStressLevel": 28,
+   "restStressDuration": 42060
+  }
+ },
+ {
+  "calendarDate": "2026-11-12",
+  "values": {
+   "highStressDuration": 4800,
+   "lowStressDuration": 13140,
+   "mediumStressDuration": 11100,
+   "overallStressLevel": 31,
+   "restStressDuration": 35820
+  }
+ },
+ {
+  "calendarDate": "2026-11-13",
+  "values": {
+   "highStressDuration": 1500,
+   "lowStressDuration": 29280,
+   "mediumStressDuration": 10980,
+   "overallStressLevel": 32,
+   "restStressDuration": 31800
+  }
+ }
+]
