@@ -1,0 +1,63 @@
+# À ranger dans le dépôt sous : .github/workflows/export-garmin.yml
+name: Export Garmin
+
+on:
+  schedule:
+    # 6 h 07 UTC = 7 h 07 heure d'hiver à Paris (8 h 07 l'été)
+    - cron: "7 6 * * *"
+  workflow_dispatch:
+    inputs:
+      jours:
+        description: "Nombre de jours à récupérer (1 à 120)"
+        required: true
+        default: "10"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: export-garmin
+  cancel-in-progress: false
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v5
+
+      - name: Installer Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Installer le client Garmin
+        run: pip install -r requirements.txt
+
+      - name: Exporter les données Garmin
+        id: export
+        continue-on-error: true
+        env:
+          GARMIN_PERSONAL_API_KEY: ${{ secrets.GARMIN_PERSONAL_API_KEY }}
+          JOURS: ${{ github.event.inputs.jours || '10' }}
+        run: python export_garmin.py --jours "$JOURS"
+
+      - name: Enregistrer dans le dépôt
+        run: |
+          git config user.name "export-garmin"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -d donnees ]; then git add donnees; fi
+          if git diff --cached --quiet; then
+            echo "Rien de nouveau à enregistrer."
+          else
+            git commit -m "Export Garmin $(date -u +%F)"
+            git push
+          fi
+
+      - name: Signaler une donnée manquante
+        if: steps.export.outcome == 'failure'
+        run: |
+          echo "Au moins une donnée a manqué : déroule l'étape « Exporter les données Garmin » et cherche les lignes ERREUR."
+          exit 1
