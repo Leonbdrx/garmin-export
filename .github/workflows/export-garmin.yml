@@ -4,7 +4,7 @@ name: Export Garmin
 on:
   schedule:
     # 6 h 07 UTC = 7 h 07 heure d'hiver à Paris (8 h 07 l'été)
-    - cron: "7 6 * * *"
+    - cron: "00 8 * * *"
   workflow_dispatch:
     inputs:
       jours:
