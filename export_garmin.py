@@ -37,7 +37,9 @@ erreurs: list[str] = []
 
 def erreur(message: str) -> None:
     erreurs.append(message)
-    print(f"ERREUR {message}", flush=True)
+    # Sur GitHub, "::error::" fait apparaître la ligne dans le cadre Annotations du passage.
+    prefixe = "::error::" if os.environ.get("GITHUB_ACTIONS") else ""
+    print(f"{prefixe}ERREUR {message}", flush=True)
 
 
 def info(message: str) -> None:
