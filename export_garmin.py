@@ -107,16 +107,46 @@ def ecrire_brut(nom: str, suffixe: str, contenu) -> None:
     chemin.write_text(json.dumps(contenu, ensure_ascii=False, indent=1, sort_keys=True), "utf-8")
 
 
+def avec_reprise(fonction, *args, **kwargs):
+    """Garmin limite à 100 requêtes par fenêtre (HTTP 429) : on attend puis on réessaie."""
+    for essai in range(6):
+        try:
+            return fonction(*args, **kwargs)
+        except Exception as exc:  # noqa: BLE001
+            if getattr(exc, "status_code", None) != 429 or essai == 5:
+                raise
+            attente = 5
+            try:
+                attente = int(json.loads(exc.response_text).get("retryInSeconds", 5)) + 2
+            except Exception:  # noqa: BLE001
+                pass
+            attente = max(attente, 5 * (essai + 1))
+            info(f"  limite Garmin atteinte, pause {attente} s")
+            time.sleep(attente)
+    return None
+
+
 def appel(nom: str, suffixe: str, fonction, *args, **kwargs):
     """Appelle Garmin ; une erreur sur une donnée n'arrête pas les autres."""
     try:
-        resultat = fonction(*args, **kwargs)
+        resultat = avec_reprise(fonction, *args, **kwargs)
     except Exception as exc:  # noqa: BLE001 - on veut tout journaliser et continuer
         erreur(f"{nom} ({suffixe}) : {type(exc).__name__} {str(exc)[:200]}")
         return None
     ecrire_brut(nom, suffixe, resultat)
     time.sleep(0.3)
     return resultat
+
+
+def appel_par_tranches(nom: str, fonction, debut: date, fin: date, taille: int = 28) -> dict:
+    """Garmin refuse les longues périodes (HTTP 400) : on découpe en tranches de 28 jours."""
+    acc: dict[str, list] = {}
+    tranche = debut
+    while tranche <= fin:
+        bout = min(fin, tranche + timedelta(days=taille - 1))
+        par_jour(appel(nom, f"{tranche}_{bout}", fonction, tranche, bout), acc)
+        tranche = bout + timedelta(days=1)
+    return acc
 
 
 def nombre_fr(val, decimales: int) -> str:
@@ -202,7 +232,7 @@ def telecharger_fit(client, seance: dict) -> None:
     if chemin.exists():
         return
     try:
-        contenu = client.download_activity(seance["id"])
+        contenu = avec_reprise(client.download_activity, seance["id"])
     except Exception as exc:  # noqa: BLE001
         erreur(f"fichier FIT {seance['id']} : {type(exc).__name__} {str(exc)[:200]}")
         return
@@ -221,14 +251,13 @@ def poids_kg(val):
 
 
 def recuperer_sante(client, debut: date, fin: date) -> dict[str, dict]:
-    suffixe = f"{debut}_{fin}"
-    resumes = par_jour(appel("resumes_jour", suffixe, client.get_daily_summaries, debut, fin))
-    vfc = par_jour(appel("vfc", suffixe, client.get_daily_hrv_summaries, debut, fin))
-    poids = par_jour(appel("poids", suffixe, client.get_weight_measurements, debut, fin))
-    sommeil = par_jour(appel("sommeil", suffixe, client.get_daily_sleep_summaries, debut, fin))
-    stress = par_jour(appel("stress", suffixe, client.get_daily_stress, debut, fin))
-    batterie = par_jour(appel("body_battery", suffixe, client.get_daily_body_battery, debut, fin))
-    pas = par_jour(appel("pas", suffixe, client.get_daily_steps, debut, fin))
+    resumes = appel_par_tranches("resumes_jour", client.get_daily_summaries, debut, fin)
+    vfc = appel_par_tranches("vfc", client.get_daily_hrv_summaries, debut, fin)
+    poids = appel_par_tranches("poids", client.get_weight_measurements, debut, fin)
+    sommeil = appel_par_tranches("sommeil", client.get_daily_sleep_summaries, debut, fin)
+    stress = appel_par_tranches("stress", client.get_daily_stress, debut, fin)
+    batterie = appel_par_tranches("body_battery", client.get_daily_body_battery, debut, fin)
+    pas = appel_par_tranches("pas", client.get_daily_steps, debut, fin)
 
     jours: dict[str, dict] = {}
     jour = debut
