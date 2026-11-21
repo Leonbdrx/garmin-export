@@ -1,0 +1,1916 @@
+{
+ "jours": {
+  "2026-07-25": {},
+  "2026-07-26": {},
+  "2026-07-27": {},
+  "2026-07-28": {},
+  "2026-07-29": {},
+  "2026-07-30": {},
+  "2026-07-31": {},
+  "2026-08-01": {},
+  "2026-08-02": {},
+  "2026-08-03": {},
+  "2026-08-04": {},
+  "2026-08-05": {},
+  "2026-08-06": {},
+  "2026-08-07": {},
+  "2026-08-08": {},
+  "2026-08-09": {},
+  "2026-08-10": {},
+  "2026-08-11": {},
+  "2026-08-12": {},
+  "2026-08-13": {},
+  "2026-08-14": {},
+  "2026-08-15": {},
+  "2026-08-16": {},
+  "2026-08-17": {},
+  "2026-08-18": {},
+  "2026-08-19": {},
+  "2026-08-20": {},
+  "2026-08-21": {},
+  "2026-08-22": {},
+  "2026-08-23": {},
+  "2026-08-24": {},
+  "2026-08-25": {},
+  "2026-08-26": {},
+  "2026-08-27": {},
+  "2026-08-28": {},
+  "2026-08-29": {
+   "vfc_nuit_ms": 82
+  },
+  "2026-08-30": {
+   "vfc_nuit_ms": 81
+  },
+  "2026-08-31": {
+   "vfc_nuit_ms": 96
+  },
+  "2026-09-01": {
+   "vfc_nuit_ms": 92
+  },
+  "2026-09-02": {
+   "vfc_nuit_ms": 98
+  },
+  "2026-09-03": {
+   "vfc_nuit_ms": 85
+  },
+  "2026-09-04": {
+   "vfc_nuit_ms": 88
+  },
+  "2026-09-05": {},
+  "2026-09-06": {
+   "vfc_nuit_ms": 89
+  },
+  "2026-09-07": {
+   "vfc_nuit_ms": 89
+  },
+  "2026-09-08": {
+   "vfc_nuit_ms": 83
+  },
+  "2026-09-09": {
+   "vfc_nuit_ms": 94
+  },
+  "2026-09-10": {
+   "vfc_nuit_ms": 89
+  },
+  "2026-09-11": {
+   "vfc_nuit_ms": 90
+  },
+  "2026-09-12": {
+   "vfc_nuit_ms": 95
+  },
+  "2026-09-13": {
+   "vfc_nuit_ms": 84
+  },
+  "2026-09-14": {
+   "vfc_nuit_ms": 95
+  },
+  "2026-09-15": {
+   "vfc_nuit_ms": 82
+  },
+  "2026-09-16": {
+   "vfc_nuit_ms": 78
+  },
+  "2026-09-17": {
+   "vfc_nuit_ms": 73
+  },
+  "2026-09-18": {
+   "vfc_nuit_ms": 73
+  },
+  "2026-09-19": {
+   "vfc_nuit_ms": 66
+  },
+  "2026-09-20": {
+   "poids_kg": 70.0
+  },
+  "2026-09-21": {
+   "vfc_nuit_ms": 73
+  },
+  "2026-09-22": {
+   "vfc_nuit_ms": 91
+  },
+  "2026-09-23": {
+   "vfc_nuit_ms": 73
+  },
+  "2026-09-24": {
+   "vfc_nuit_ms": 88
+  },
+  "2026-09-25": {
+   "vfc_nuit_ms": 81
+  },
+  "2026-09-26": {
+   "vfc_nuit_ms": 88
+  },
+  "2026-09-27": {
+   "vfc_nuit_ms": 98
+  },
+  "2026-09-28": {
+   "vfc_nuit_ms": 89
+  },
+  "2026-09-29": {
+   "vfc_nuit_ms": 86
+  },
+  "2026-09-30": {
+   "vfc_nuit_ms": 80
+  },
+  "2026-10-01": {
+   "vfc_nuit_ms": 93
+  },
+  "2026-10-02": {
+   "vfc_nuit_ms": 91
+  },
+  "2026-10-03": {
+   "vfc_nuit_ms": 80
+  },
+  "2026-10-04": {},
+  "2026-10-05": {
+   "vfc_nuit_ms": 86
+  },
+  "2026-10-06": {
+   "vfc_nuit_ms": 87
+  },
+  "2026-10-07": {
+   "vfc_nuit_ms": 88
+  },
+  "2026-10-08": {
+   "vfc_nuit_ms": 86
+  },
+  "2026-10-09": {},
+  "2026-10-10": {
+   "vfc_nuit_ms": 89
+  },
+  "2026-10-11": {
+   "vfc_nuit_ms": 95
+  },
+  "2026-10-12": {
+   "vfc_nuit_ms": 88
+  },
+  "2026-10-13": {
+   "vfc_nuit_ms": 95
+  },
+  "2026-10-14": {
+   "vfc_nuit_ms": 92
+  },
+  "2026-10-15": {
+   "vfc_nuit_ms": 86
+  },
+  "2026-10-16": {
+   "vfc_nuit_ms": 95
+  },
+  "2026-10-17": {
+   "vfc_nuit_ms": 101
+  },
+  "2026-10-18": {},
+  "2026-10-19": {
+   "vfc_nuit_ms": 93
+  },
+  "2026-10-20": {
+   "vfc_nuit_ms": 97
+  },
+  "2026-10-21": {
+   "vfc_nuit_ms": 90
+  },
+  "2026-10-22": {
+   "vfc_nuit_ms": 85
+  },
+  "2026-10-23": {},
+  "2026-10-24": {
+   "vfc_nuit_ms": 75
+  },
+  "2026-10-25": {
+   "vfc_nuit_ms": 83
+  },
+  "2026-10-26": {
+   "vfc_nuit_ms": 78
+  },
+  "2026-10-27": {
+   "vfc_nuit_ms": 87
+  },
+  "2026-10-28": {
+   "vfc_nuit_ms": 90
+  },
+  "2026-10-29": {
+   "vfc_nuit_ms": 90
+  },
+  "2026-10-30": {
+   "vfc_nuit_ms": 84
+  },
+  "2026-10-31": {
+   "vfc_nuit_ms": 87
+  },
+  "2026-11-01": {
+   "vfc_nuit_ms": 80
+  },
+  "2026-11-02": {
+   "vfc_nuit_ms": 75,
+   "poids_kg": 70.0
+  },
+  "2026-11-03": {
+   "vfc_nuit_ms": 87
+  },
+  "2026-11-04": {
+   "vfc_nuit_ms": 77,
+   "poids_kg": 69.5
+  },
+  "2026-11-05": {
+   "vfc_nuit_ms": 81
+  },
+  "2026-11-06": {
+   "vfc_nuit_ms": 79
+  },
+  "2026-11-07": {
+   "vfc_nuit_ms": 75
+  },
+  "2026-11-08": {
+   "vfc_nuit_ms": 84
+  },
+  "2026-11-09": {
+   "vfc_nuit_ms": 96
+  },
+  "2026-11-10": {
+   "vfc_nuit_ms": 95
+  },
+  "2026-11-11": {
+   "vfc_nuit_ms": 81
+  },
+  "2026-11-12": {
+   "vfc_nuit_ms": 88
+  },
+  "2026-11-13": {
+   "vfc_nuit_ms": 83
+  },
+  "2026-11-14": {},
+  "2026-11-15": {
+   "vfc_nuit_ms": 69
+  },
+  "2026-11-16": {
+   "vfc_nuit_ms": 89
+  },
+  "2026-11-17": {
+   "vfc_nuit_ms": 96
+  },
+  "2026-11-18": {
+   "vfc_nuit_ms": 90
+  },
+  "2026-11-19": {
+   "vfc_nuit_ms": 91
+  },
+  "2026-11-20": {
+   "vfc_nuit_ms": 98
+  },
+  "2026-11-21": {
+   "vfc_nuit_ms": 85
+  }
+ },
+ "seances": {
+  "23723550145": {
+   "id": 23723550145,
+   "date": "2026-07-25",
+   "heure": "08:12",
+   "nom": "Le Hom Trail",
+   "type_garmin": "trail_running",
+   "categorie": "Course",
+   "duree_min": 130.9,
+   "km": 18.43,
+   "dplus_m": 1026.0,
+   "fc_moy": null,
+   "fc_max": null
+  },
+  "23794547169": {
+   "id": 23794547169,
+   "date": "2026-07-30",
+   "heure": "20:51",
+   "nom": "Caen Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 38.8,
+   "km": 6.66,
+   "dplus_m": 35.0,
+   "fc_moy": null,
+   "fc_max": null
+  },
+  "23809784377": {
+   "id": 23809784377,
+   "date": "2026-08-01",
+   "heure": "08:19",
+   "nom": "Le Hom Trail",
+   "type_garmin": "trail_running",
+   "categorie": "Course",
+   "duree_min": 184.9,
+   "km": 31.85,
+   "dplus_m": 975.0,
+   "fc_moy": null,
+   "fc_max": null
+  },
+  "23866514004": {
+   "id": 23866514004,
+   "date": "2026-08-05",
+   "heure": "19:23",
+   "nom": "Caen Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 105.9,
+   "km": 17.95,
+   "dplus_m": 441.0,
+   "fc_moy": null,
+   "fc_max": null
+  },
+  "23908812795": {
+   "id": 23908812795,
+   "date": "2026-08-09",
+   "heure": "07:58",
+   "nom": "Le Hom Trail",
+   "type_garmin": "trail_running",
+   "categorie": "Course",
+   "duree_min": 208.3,
+   "km": 35.35,
+   "dplus_m": 1029.0,
+   "fc_moy": null,
+   "fc_max": null
+  },
+  "23966014043": {
+   "id": 23966014043,
+   "date": "2026-08-13",
+   "heure": "19:12",
+   "nom": "Caen",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 91.7,
+   "km": 18.77,
+   "dplus_m": 28.0,
+   "fc_moy": null,
+   "fc_max": null
+  },
+  "23996392862": {
+   "id": 23996392862,
+   "date": "2026-08-16",
+   "heure": "08:06",
+   "nom": "Le Hom Trail",
+   "type_garmin": "trail_running",
+   "categorie": "Course",
+   "duree_min": 209.4,
+   "km": 34.06,
+   "dplus_m": 999.0,
+   "fc_moy": null,
+   "fc_max": null
+  },
+  "24071107075": {
+   "id": 24071107075,
+   "date": "2026-08-22",
+   "heure": "09:19",
+   "nom": "Caen Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 89.1,
+   "km": 18.95,
+   "dplus_m": 38.0,
+   "fc_moy": null,
+   "fc_max": null
+  },
+  "24071108254": {
+   "id": 24071108254,
+   "date": "2026-08-22",
+   "heure": "12:01",
+   "nom": "Le Hom Trail",
+   "type_garmin": "trail_running",
+   "categorie": "Course",
+   "duree_min": 53.2,
+   "km": 6.31,
+   "dplus_m": 314.0,
+   "fc_moy": null,
+   "fc_max": null
+  },
+  "24127353379": {
+   "id": 24127353379,
+   "date": "2026-08-26",
+   "heure": "19:49",
+   "nom": "Caen Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 22.3,
+   "km": 4.25,
+   "dplus_m": 89.0,
+   "fc_moy": null,
+   "fc_max": null
+  },
+  "24150731030": {
+   "id": 24150731030,
+   "date": "2026-08-28",
+   "heure": "18:27",
+   "nom": "Caen Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 17.0,
+   "km": 3.42,
+   "dplus_m": 29.0,
+   "fc_moy": null,
+   "fc_max": null
+  },
+  "24159706089": {
+   "id": 24159706089,
+   "date": "2026-08-29",
+   "heure": "08:51",
+   "nom": "Le Hom Trail",
+   "type_garmin": "trail_running",
+   "categorie": "Course",
+   "duree_min": 315.5,
+   "km": 48.62,
+   "dplus_m": 1566.0,
+   "fc_moy": 158.0,
+   "fc_max": 187.0
+  },
+  "24187861279": {
+   "id": 24187861279,
+   "date": "2026-08-31",
+   "heure": "20:01",
+   "nom": "Course à pied sur tapis roulant",
+   "type_garmin": "treadmill_running",
+   "categorie": "Course",
+   "duree_min": 30.0,
+   "km": 3.0,
+   "dplus_m": null,
+   "fc_moy": 139.0,
+   "fc_max": 157.0
+  },
+  "24214209570": {
+   "id": 24214209570,
+   "date": "2026-09-02",
+   "heure": "19:20",
+   "nom": "Caen Multisport",
+   "type_garmin": "multi_sport",
+   "categorie": "Autre",
+   "duree_min": 56.5,
+   "km": 6.47,
+   "dplus_m": 6.0,
+   "fc_moy": null,
+   "fc_max": 171.0
+  },
+  "24214526548": {
+   "id": 24214526548,
+   "date": "2026-09-02",
+   "heure": "20:21",
+   "nom": "Caen Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 22.0,
+   "km": 4.12,
+   "dplus_m": 39.0,
+   "fc_moy": 158.0,
+   "fc_max": 182.0
+  },
+  "24237549077": {
+   "id": 24237549077,
+   "date": "2026-09-04",
+   "heure": "18:13",
+   "nom": "Course à pied sur tapis roulant",
+   "type_garmin": "treadmill_running",
+   "categorie": "Course",
+   "duree_min": 45.0,
+   "km": 5.5,
+   "dplus_m": null,
+   "fc_moy": 145.0,
+   "fc_max": 161.0
+  },
+  "24244185169": {
+   "id": 24244185169,
+   "date": "2026-09-05",
+   "heure": "08:37",
+   "nom": "Le Hom Trail",
+   "type_garmin": "trail_running",
+   "categorie": "Course",
+   "duree_min": 165.6,
+   "km": 24.77,
+   "dplus_m": 1224.0,
+   "fc_moy": 161.0,
+   "fc_max": 190.0
+  },
+  "24263497749": {
+   "id": 24263497749,
+   "date": "2026-09-06",
+   "heure": "19:52",
+   "nom": "Course à pied sur tapis roulant",
+   "type_garmin": "treadmill_running",
+   "categorie": "Course",
+   "duree_min": 20.0,
+   "km": 2.0,
+   "dplus_m": null,
+   "fc_moy": 139.0,
+   "fc_max": 150.0
+  },
+  "24266666973": {
+   "id": 24266666973,
+   "date": "2026-09-07",
+   "heure": "06:37",
+   "nom": "Course à pied sur tapis roulant",
+   "type_garmin": "treadmill_running",
+   "categorie": "Course",
+   "duree_min": 45.0,
+   "km": 5.67,
+   "dplus_m": null,
+   "fc_moy": 150.0,
+   "fc_max": 162.0
+  },
+  "24282560204": {
+   "id": 24282560204,
+   "date": "2026-09-08",
+   "heure": "13:03",
+   "nom": "Course à pied sur tapis roulant",
+   "type_garmin": "treadmill_running",
+   "categorie": "Course",
+   "duree_min": 30.0,
+   "km": 3.6,
+   "dplus_m": null,
+   "fc_moy": 137.0,
+   "fc_max": 166.0
+  },
+  "24324436880": {
+   "id": 24324436880,
+   "date": "2026-09-11",
+   "heure": "18:50",
+   "nom": "Caen Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 43.9,
+   "km": 8.7,
+   "dplus_m": 61.0,
+   "fc_moy": 157.0,
+   "fc_max": 168.0
+  },
+  "24338535829": {
+   "id": 24338535829,
+   "date": "2026-09-12",
+   "heure": "19:25",
+   "nom": "Le Hom Trail",
+   "type_garmin": "trail_running",
+   "categorie": "Course",
+   "duree_min": 182.3,
+   "km": 29.0,
+   "dplus_m": 771.0,
+   "fc_moy": 157.0,
+   "fc_max": 179.0
+  },
+  "24369085605": {
+   "id": 24369085605,
+   "date": "2026-09-15",
+   "heure": "12:56",
+   "nom": "Caen Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 36.3,
+   "km": 6.26,
+   "dplus_m": 39.0,
+   "fc_moy": 145.0,
+   "fc_max": 165.0
+  },
+  "24387671060": {
+   "id": 24387671060,
+   "date": "2026-09-16",
+   "heure": "19:45",
+   "nom": "Caen Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 47.0,
+   "km": 8.76,
+   "dplus_m": 61.0,
+   "fc_moy": 148.0,
+   "fc_max": 177.0
+  },
+  "24400097145": {
+   "id": 24400097145,
+   "date": "2026-09-17",
+   "heure": "20:32",
+   "nom": "Caen Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 26.5,
+   "km": 4.7,
+   "dplus_m": 33.0,
+   "fc_moy": 142.0,
+   "fc_max": 162.0
+  },
+  "24417077403": {
+   "id": 24417077403,
+   "date": "2026-09-19",
+   "heure": "10:50",
+   "nom": "Caen Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 46.8,
+   "km": 8.73,
+   "dplus_m": 63.0,
+   "fc_moy": 151.0,
+   "fc_max": 171.0
+  },
+  "24423191216": {
+   "id": 24423191216,
+   "date": "2026-09-19",
+   "heure": "19:15",
+   "nom": "Cardio",
+   "type_garmin": "indoor_cardio",
+   "categorie": "Renfo",
+   "duree_min": 10.3,
+   "km": null,
+   "dplus_m": null,
+   "fc_moy": 104.0,
+   "fc_max": 119.0
+  },
+  "24423688817": {
+   "id": 24423688817,
+   "date": "2026-09-19",
+   "heure": "20:00",
+   "nom": "Caen Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 15.8,
+   "km": 2.81,
+   "dplus_m": 16.0,
+   "fc_moy": 148.0,
+   "fc_max": 158.0
+  },
+  "24427608300": {
+   "id": 24427608300,
+   "date": "2026-09-20",
+   "heure": "09:07",
+   "nom": "Caen Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 17.5,
+   "km": 3.08,
+   "dplus_m": 24.0,
+   "fc_moy": 144.0,
+   "fc_max": 160.0
+  },
+  "24446941903": {
+   "id": 24446941903,
+   "date": "2026-09-21",
+   "heure": "18:11",
+   "nom": "Cardio",
+   "type_garmin": "indoor_cardio",
+   "categorie": "Renfo",
+   "duree_min": 114.4,
+   "km": null,
+   "dplus_m": null,
+   "fc_moy": 112.0,
+   "fc_max": 164.0
+  },
+  "24454808625": {
+   "id": 24454808625,
+   "date": "2026-09-22",
+   "heure": "12:44",
+   "nom": "Caen - Footing 40min",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 44.3,
+   "km": 7.68,
+   "dplus_m": 36.0,
+   "fc_moy": 146.0,
+   "fc_max": 164.0
+  },
+  "24460760621": {
+   "id": 24460760621,
+   "date": "2026-09-22",
+   "heure": "19:28",
+   "nom": "Cardio",
+   "type_garmin": "indoor_cardio",
+   "categorie": "Renfo",
+   "duree_min": 90.4,
+   "km": null,
+   "dplus_m": null,
+   "fc_moy": 121.0,
+   "fc_max": 166.0
+  },
+  "24472977355": {
+   "id": 24472977355,
+   "date": "2026-09-23",
+   "heure": "19:14",
+   "nom": "Caen - Footing 40min",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 46.4,
+   "km": 8.07,
+   "dplus_m": 46.0,
+   "fc_moy": 143.0,
+   "fc_max": 160.0
+  },
+  "24497213374": {
+   "id": 24497213374,
+   "date": "2026-09-25",
+   "heure": "20:41",
+   "nom": "Caen - W/F/S - Footing - 35min",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 18.4,
+   "km": 3.27,
+   "dplus_m": 28.0,
+   "fc_moy": 144.0,
+   "fc_max": 155.0
+  },
+  "24506858150": {
+   "id": 24506858150,
+   "date": "2026-09-26",
+   "heure": "16:10",
+   "nom": "Caen - S - 5k",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 60.2,
+   "km": 12.48,
+   "dplus_m": 31.0,
+   "fc_moy": 165.0,
+   "fc_max": 184.0
+  },
+  "24516331581": {
+   "id": 24516331581,
+   "date": "2026-09-27",
+   "heure": "12:41",
+   "nom": "Le Hom Trail",
+   "type_garmin": "trail_running",
+   "categorie": "Course",
+   "duree_min": 49.6,
+   "km": 6.33,
+   "dplus_m": 301.0,
+   "fc_moy": 143.0,
+   "fc_max": 158.0
+  },
+  "24521547235": {
+   "id": 24521547235,
+   "date": "2026-09-27",
+   "heure": "18:00",
+   "nom": "Escalade",
+   "type_garmin": "bouldering",
+   "categorie": "Grimpe",
+   "duree_min": 90.0,
+   "km": null,
+   "dplus_m": 0.0,
+   "fc_moy": null,
+   "fc_max": null
+  },
+  "24521915862": {
+   "id": 24521915862,
+   "date": "2026-09-27",
+   "heure": "20:23",
+   "nom": "Caen - W/F/S - Footing - 35min",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 26.4,
+   "km": 4.45,
+   "dplus_m": 30.0,
+   "fc_moy": 140.0,
+   "fc_max": 159.0
+  },
+  "24532131559": {
+   "id": 24532131559,
+   "date": "2026-09-28",
+   "heure": "16:48",
+   "nom": "Caen - M - Footing - 60min",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 60.0,
+   "km": 10.57,
+   "dplus_m": 115.0,
+   "fc_moy": 149.0,
+   "fc_max": 178.0
+  },
+  "24541211657": {
+   "id": 24541211657,
+   "date": "2026-09-29",
+   "heure": "14:54",
+   "nom": "Caen Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 14.1,
+   "km": 2.65,
+   "dplus_m": 1.0,
+   "fc_moy": 152.0,
+   "fc_max": 160.0
+  },
+  "24541717124": {
+   "id": 24541717124,
+   "date": "2026-09-29",
+   "heure": "15:14",
+   "nom": "T - 30k",
+   "type_garmin": "treadmill_running",
+   "categorie": "Course",
+   "duree_min": 34.5,
+   "km": 7.6,
+   "dplus_m": null,
+   "fc_moy": 171.0,
+   "fc_max": 185.0
+  },
+  "24541931700": {
+   "id": 24541931700,
+   "date": "2026-09-29",
+   "heure": "15:58",
+   "nom": "Caen Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 15.4,
+   "km": 2.63,
+   "dplus_m": 22.0,
+   "fc_moy": 154.0,
+   "fc_max": 162.0
+  },
+  "24545123876": {
+   "id": 24545123876,
+   "date": "2026-09-29",
+   "heure": "18:20",
+   "nom": "Cardio",
+   "type_garmin": "indoor_cardio",
+   "categorie": "Renfo",
+   "duree_min": 96.4,
+   "km": null,
+   "dplus_m": null,
+   "fc_moy": 132.0,
+   "fc_max": 184.0
+  },
+  "24553459340": {
+   "id": 24553459340,
+   "date": "2026-09-30",
+   "heure": "11:33",
+   "nom": "Caen - W/F - Footing - 40min",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 40.0,
+   "km": 6.98,
+   "dplus_m": 67.0,
+   "fc_moy": 145.0,
+   "fc_max": 162.0
+  },
+  "24553461101": {
+   "id": 24553461101,
+   "date": "2026-09-30",
+   "heure": "13:23",
+   "nom": "Caen Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 38.2,
+   "km": 6.67,
+   "dplus_m": 45.0,
+   "fc_moy": 143.0,
+   "fc_max": 163.0
+  },
+  "24563931336": {
+   "id": 24563931336,
+   "date": "2026-10-01",
+   "heure": "09:55",
+   "nom": "Caen - T - 15k",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 62.2,
+   "km": 12.95,
+   "dplus_m": 42.0,
+   "fc_moy": 164.0,
+   "fc_max": 180.0
+  },
+  "24570732310": {
+   "id": 24570732310,
+   "date": "2026-10-01",
+   "heure": "17:37",
+   "nom": "Cardio",
+   "type_garmin": "indoor_cardio",
+   "categorie": "Renfo",
+   "duree_min": 154.8,
+   "km": null,
+   "dplus_m": null,
+   "fc_moy": 126.0,
+   "fc_max": 180.0
+  },
+  "24578584552": {
+   "id": 24578584552,
+   "date": "2026-10-02",
+   "heure": "14:41",
+   "nom": "Caen Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 37.4,
+   "km": 7.35,
+   "dplus_m": 61.0,
+   "fc_moy": 155.0,
+   "fc_max": 169.0
+  },
+  "24579586912": {
+   "id": 24579586912,
+   "date": "2026-10-02",
+   "heure": "16:35",
+   "nom": "Caen Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 32.9,
+   "km": 6.21,
+   "dplus_m": 31.0,
+   "fc_moy": 148.0,
+   "fc_max": 167.0
+  },
+  "24581910916": {
+   "id": 24581910916,
+   "date": "2026-10-02",
+   "heure": "19:37",
+   "nom": "Caen Marche à pied",
+   "type_garmin": "walking",
+   "categorie": "Autre",
+   "duree_min": 30.7,
+   "km": 2.09,
+   "dplus_m": 30.0,
+   "fc_moy": 94.0,
+   "fc_max": 129.0
+  },
+  "24594075033": {
+   "id": 24594075033,
+   "date": "2026-10-03",
+   "heure": "19:50",
+   "nom": "Caen Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 10.8,
+   "km": 2.17,
+   "dplus_m": 0.0,
+   "fc_moy": 157.0,
+   "fc_max": 174.0
+  },
+  "24594878752": {
+   "id": 24594878752,
+   "date": "2026-10-03",
+   "heure": "20:21",
+   "nom": "Caen Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 99.3,
+   "km": 13.43,
+   "dplus_m": 152.0,
+   "fc_moy": 140.0,
+   "fc_max": 169.0
+  },
+  "24595144056": {
+   "id": 24595144056,
+   "date": "2026-10-03",
+   "heure": "22:39",
+   "nom": "Caen Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 10.2,
+   "km": 1.64,
+   "dplus_m": 22.0,
+   "fc_moy": 141.0,
+   "fc_max": 157.0
+  },
+  "24617331742": {
+   "id": 24617331742,
+   "date": "2026-10-05",
+   "heure": "17:09",
+   "nom": "Rangárþing Eystra Randonnée",
+   "type_garmin": "hiking",
+   "categorie": "Course",
+   "duree_min": 32.8,
+   "km": 2.41,
+   "dplus_m": 25.0,
+   "fc_moy": 67.0,
+   "fc_max": 104.0
+  },
+  "24618134330": {
+   "id": 24618134330,
+   "date": "2026-10-05",
+   "heure": "18:29",
+   "nom": "Rangárþing Eystra Trail",
+   "type_garmin": "trail_running",
+   "categorie": "Course",
+   "duree_min": 6.5,
+   "km": 0.5,
+   "dplus_m": 76.0,
+   "fc_moy": 116.0,
+   "fc_max": 153.0
+  },
+  "24619428123": {
+   "id": 24619428123,
+   "date": "2026-10-05",
+   "heure": "20:08",
+   "nom": "Mýrdalshreppur Trail",
+   "type_garmin": "trail_running",
+   "categorie": "Course",
+   "duree_min": 67.7,
+   "km": 8.97,
+   "dplus_m": 352.0,
+   "fc_moy": 145.0,
+   "fc_max": 160.0
+  },
+  "24630677074": {
+   "id": 24630677074,
+   "date": "2026-10-06",
+   "heure": "16:16",
+   "nom": "Skaftárhreppur Randonnée",
+   "type_garmin": "hiking",
+   "categorie": "Course",
+   "duree_min": 60.3,
+   "km": 4.83,
+   "dplus_m": 71.0,
+   "fc_moy": 86.0,
+   "fc_max": 113.0
+  },
+  "24631280250": {
+   "id": 24631280250,
+   "date": "2026-10-06",
+   "heure": "18:10",
+   "nom": "Skaftárhreppur - T - 30k",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 41.4,
+   "km": 8.69,
+   "dplus_m": 28.0,
+   "fc_moy": 168.0,
+   "fc_max": 189.0
+  },
+  "24641826132": {
+   "id": 24641826132,
+   "date": "2026-10-07",
+   "heure": "11:08",
+   "nom": "Sveitarfélagið Hornafjörður Randonnée",
+   "type_garmin": "hiking",
+   "categorie": "Course",
+   "duree_min": 114.8,
+   "km": 3.75,
+   "dplus_m": 247.0,
+   "fc_moy": 89.0,
+   "fc_max": 125.0
+  },
+  "24644430115": {
+   "id": 24644430115,
+   "date": "2026-10-07",
+   "heure": "18:08",
+   "nom": "Sveitarfélagið Hornafjörður Trail",
+   "type_garmin": "trail_running",
+   "categorie": "Course",
+   "duree_min": 77.9,
+   "km": 11.35,
+   "dplus_m": 279.0,
+   "fc_moy": 148.0,
+   "fc_max": 170.0
+  },
+  "24649433262": {
+   "id": 24649433262,
+   "date": "2026-10-08",
+   "heure": "08:59",
+   "nom": "Sveitarfélagið Hornafjörður Randonnée",
+   "type_garmin": "hiking",
+   "categorie": "Course",
+   "duree_min": 42.3,
+   "km": 3.74,
+   "dplus_m": 168.0,
+   "fc_moy": 106.0,
+   "fc_max": 143.0
+  },
+  "24663013171": {
+   "id": 24663013171,
+   "date": "2026-10-09",
+   "heure": "12:09",
+   "nom": "Sveitarfélagið Hornafjörður Randonnée",
+   "type_garmin": "hiking",
+   "categorie": "Course",
+   "duree_min": 69.6,
+   "km": 5.89,
+   "dplus_m": 25.0,
+   "fc_moy": 92.0,
+   "fc_max": 138.0
+  },
+  "24666551877": {
+   "id": 24666551877,
+   "date": "2026-10-09",
+   "heure": "18:32",
+   "nom": "Seyðisfjarðarkaupstaður Trail",
+   "type_garmin": "trail_running",
+   "categorie": "Course",
+   "duree_min": 51.7,
+   "km": 7.32,
+   "dplus_m": 260.0,
+   "fc_moy": 157.0,
+   "fc_max": 177.0
+  },
+  "24673555344": {
+   "id": 24673555344,
+   "date": "2026-10-10",
+   "heure": "11:10",
+   "nom": "Fljótsdalshreppur Randonnée",
+   "type_garmin": "hiking",
+   "categorie": "Course",
+   "duree_min": 60.4,
+   "km": 4.88,
+   "dplus_m": 265.0,
+   "fc_moy": 104.0,
+   "fc_max": 143.0
+  },
+  "24676816503": {
+   "id": 24676816503,
+   "date": "2026-10-10",
+   "heure": "14:48",
+   "nom": "Fljótsdalshérað Randonnée",
+   "type_garmin": "hiking",
+   "categorie": "Course",
+   "duree_min": 58.4,
+   "km": 5.52,
+   "dplus_m": 99.0,
+   "fc_moy": 101.0,
+   "fc_max": 133.0
+  },
+  "24685543753": {
+   "id": 24685543753,
+   "date": "2026-10-11",
+   "heure": "08:12",
+   "nom": "Skútustaðahreppur Trail",
+   "type_garmin": "trail_running",
+   "categorie": "Course",
+   "duree_min": 57.8,
+   "km": 10.68,
+   "dplus_m": 103.0,
+   "fc_moy": 153.0,
+   "fc_max": 167.0
+  },
+  "24685546972": {
+   "id": 24685546972,
+   "date": "2026-10-11",
+   "heure": "09:24",
+   "nom": "Skútustaðahreppur Trail",
+   "type_garmin": "trail_running",
+   "categorie": "Course",
+   "duree_min": 87.6,
+   "km": 12.54,
+   "dplus_m": 259.0,
+   "fc_moy": 138.0,
+   "fc_max": 153.0
+  },
+  "24689057024": {
+   "id": 24689057024,
+   "date": "2026-10-11",
+   "heure": "16:48",
+   "nom": "Norðurþing Marche à pied",
+   "type_garmin": "walking",
+   "categorie": "Autre",
+   "duree_min": 13.2,
+   "km": 1.18,
+   "dplus_m": 20.0,
+   "fc_moy": 105.0,
+   "fc_max": 123.0
+  },
+  "24700507130": {
+   "id": 24700507130,
+   "date": "2026-10-12",
+   "heure": "16:43",
+   "nom": "Cardio",
+   "type_garmin": "indoor_cardio",
+   "categorie": "Renfo",
+   "duree_min": 83.7,
+   "km": null,
+   "dplus_m": null,
+   "fc_moy": 122.0,
+   "fc_max": 163.0
+  },
+  "24710212733": {
+   "id": 24710212733,
+   "date": "2026-10-13",
+   "heure": "14:52",
+   "nom": "Borgarbyggð Randonnée",
+   "type_garmin": "hiking",
+   "categorie": "Course",
+   "duree_min": 17.6,
+   "km": 1.38,
+   "dplus_m": 80.0,
+   "fc_moy": 103.0,
+   "fc_max": 146.0
+  },
+  "24713192038": {
+   "id": 24713192038,
+   "date": "2026-10-13",
+   "heure": "18:29",
+   "nom": "Reykjavik - 5x30/30",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 21.3,
+   "km": 3.77,
+   "dplus_m": 16.0,
+   "fc_moy": 144.0,
+   "fc_max": 176.0
+  },
+  "24721687820": {
+   "id": 24721687820,
+   "date": "2026-10-14",
+   "heure": "13:12",
+   "nom": "Reykjavik Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 38.3,
+   "km": 7.05,
+   "dplus_m": 66.0,
+   "fc_moy": 143.0,
+   "fc_max": 160.0
+  },
+  "24725181999": {
+   "id": 24725181999,
+   "date": "2026-10-14",
+   "heure": "16:29",
+   "nom": "Cardio",
+   "type_garmin": "indoor_cardio",
+   "categorie": "Renfo",
+   "duree_min": 105.3,
+   "km": null,
+   "dplus_m": null,
+   "fc_moy": 131.0,
+   "fc_max": 173.0
+  },
+  "24738146122": {
+   "id": 24738146122,
+   "date": "2026-10-15",
+   "heure": "17:49",
+   "nom": "Sveitarfélagið Vogar Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 33.0,
+   "km": 5.68,
+   "dplus_m": 24.0,
+   "fc_moy": 144.0,
+   "fc_max": 179.0
+  },
+  "24763418028": {
+   "id": 24763418028,
+   "date": "2026-10-18",
+   "heure": "03:01",
+   "nom": "Saint-Philbert-sur-Orne Trail",
+   "type_garmin": "trail_running",
+   "categorie": "Course",
+   "duree_min": 326.2,
+   "km": 44.52,
+   "dplus_m": 1562.0,
+   "fc_moy": 167.0,
+   "fc_max": 187.0
+  },
+  "24792562691": {
+   "id": 24792562691,
+   "date": "2026-10-20",
+   "heure": "15:37",
+   "nom": "Caen Marche à pied",
+   "type_garmin": "walking",
+   "categorie": "Autre",
+   "duree_min": 42.7,
+   "km": 4.82,
+   "dplus_m": 36.0,
+   "fc_moy": 111.0,
+   "fc_max": 137.0
+  },
+  "24802255413": {
+   "id": 24802255413,
+   "date": "2026-10-21",
+   "heure": "14:00",
+   "nom": "Stepper",
+   "type_garmin": "stair_climbing",
+   "categorie": "Stepper",
+   "duree_min": 30.3,
+   "km": null,
+   "dplus_m": null,
+   "fc_moy": 125.0,
+   "fc_max": 135.0
+  },
+  "24804484179": {
+   "id": 24804484179,
+   "date": "2026-10-21",
+   "heure": "17:31",
+   "nom": "Caen Marche à pied",
+   "type_garmin": "walking",
+   "categorie": "Autre",
+   "duree_min": 30.5,
+   "km": 5.07,
+   "dplus_m": 59.0,
+   "fc_moy": 151.0,
+   "fc_max": 168.0
+  },
+  "24813079353": {
+   "id": 24813079353,
+   "date": "2026-10-22",
+   "heure": "11:10",
+   "nom": "Caen Marche à pied",
+   "type_garmin": "walking",
+   "categorie": "Autre",
+   "duree_min": 54.1,
+   "km": 7.56,
+   "dplus_m": 49.0,
+   "fc_moy": 138.0,
+   "fc_max": 163.0
+  },
+  "24814898805": {
+   "id": 24814898805,
+   "date": "2026-10-22",
+   "heure": "15:46",
+   "nom": "Nat. piscine",
+   "type_garmin": "lap_swimming",
+   "categorie": "Autre",
+   "duree_min": 41.6,
+   "km": 1.1,
+   "dplus_m": null,
+   "fc_moy": 134.0,
+   "fc_max": 166.0
+  },
+  "24823120600": {
+   "id": 24823120600,
+   "date": "2026-10-23",
+   "heure": "09:46",
+   "nom": "Caen Marche à pied",
+   "type_garmin": "walking",
+   "categorie": "Autre",
+   "duree_min": 46.3,
+   "km": 6.49,
+   "dplus_m": 125.0,
+   "fc_moy": 133.0,
+   "fc_max": 158.0
+  },
+  "24824895163": {
+   "id": 24824895163,
+   "date": "2026-10-23",
+   "heure": "12:12",
+   "nom": "Caen Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 37.8,
+   "km": 7.39,
+   "dplus_m": 127.0,
+   "fc_moy": 153.0,
+   "fc_max": 171.0
+  },
+  "24827504564": {
+   "id": 24827504564,
+   "date": "2026-10-23",
+   "heure": "18:35",
+   "nom": "Stepper",
+   "type_garmin": "stair_climbing",
+   "categorie": "Stepper",
+   "duree_min": 30.0,
+   "km": null,
+   "dplus_m": null,
+   "fc_moy": 138.0,
+   "fc_max": 151.0
+  },
+  "24833743973": {
+   "id": 24833743973,
+   "date": "2026-10-24",
+   "heure": "11:35",
+   "nom": "Vire Normandie - W/F/S - Footing - 35min",
+   "type_garmin": "trail_running",
+   "categorie": "Course",
+   "duree_min": 32.5,
+   "km": 5.85,
+   "dplus_m": 49.0,
+   "fc_moy": 146.0,
+   "fc_max": 160.0
+  },
+  "24837198378": {
+   "id": 24837198378,
+   "date": "2026-10-24",
+   "heure": "16:23",
+   "nom": "Caen Marche à pied",
+   "type_garmin": "walking",
+   "categorie": "Autre",
+   "duree_min": 28.8,
+   "km": 4.43,
+   "dplus_m": 47.0,
+   "fc_moy": 141.0,
+   "fc_max": 165.0
+  },
+  "24854094903": {
+   "id": 24854094903,
+   "date": "2026-10-26",
+   "heure": "08:23",
+   "nom": "Caen Marche à pied",
+   "type_garmin": "walking",
+   "categorie": "Autre",
+   "duree_min": 30.5,
+   "km": 4.2,
+   "dplus_m": 40.0,
+   "fc_moy": 129.0,
+   "fc_max": 148.0
+  },
+  "24860431231": {
+   "id": 24860431231,
+   "date": "2026-10-26",
+   "heure": "17:58",
+   "nom": "Caen Marche à pied",
+   "type_garmin": "walking",
+   "categorie": "Autre",
+   "duree_min": 42.4,
+   "km": 6.03,
+   "dplus_m": 50.0,
+   "fc_moy": 132.0,
+   "fc_max": 149.0
+  },
+  "24860432560": {
+   "id": 24860432560,
+   "date": "2026-10-26",
+   "heure": "18:43",
+   "nom": "Caen Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 25.8,
+   "km": 3.62,
+   "dplus_m": 25.0,
+   "fc_moy": 126.0,
+   "fc_max": 145.0
+  },
+  "24866663611": {
+   "id": 24866663611,
+   "date": "2026-10-27",
+   "heure": "09:59",
+   "nom": "Caen Marche à pied",
+   "type_garmin": "walking",
+   "categorie": "Autre",
+   "duree_min": 30.0,
+   "km": 4.42,
+   "dplus_m": 72.0,
+   "fc_moy": 135.0,
+   "fc_max": 163.0
+  },
+  "24869724298": {
+   "id": 24869724298,
+   "date": "2026-10-27",
+   "heure": "13:45",
+   "nom": "Caen Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 31.9,
+   "km": 5.83,
+   "dplus_m": 47.0,
+   "fc_moy": 151.0,
+   "fc_max": 180.0
+  },
+  "24869725404": {
+   "id": 24869725404,
+   "date": "2026-10-27",
+   "heure": "15:00",
+   "nom": "Caen Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 21.2,
+   "km": 3.98,
+   "dplus_m": 24.0,
+   "fc_moy": 151.0,
+   "fc_max": 164.0
+  },
+  "24877414711": {
+   "id": 24877414711,
+   "date": "2026-10-28",
+   "heure": "06:48",
+   "nom": "Caen Marche à pied",
+   "type_garmin": "walking",
+   "categorie": "Autre",
+   "duree_min": 31.6,
+   "km": 4.4,
+   "dplus_m": 67.0,
+   "fc_moy": 126.0,
+   "fc_max": 150.0
+  },
+  "24879900229": {
+   "id": 24879900229,
+   "date": "2026-10-28",
+   "heure": "11:31",
+   "nom": "Caen Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 40.0,
+   "km": 6.88,
+   "dplus_m": 38.0,
+   "fc_moy": 138.0,
+   "fc_max": 157.0
+  },
+  "24891381096": {
+   "id": 24891381096,
+   "date": "2026-10-29",
+   "heure": "10:21",
+   "nom": "Caen Marche à pied",
+   "type_garmin": "walking",
+   "categorie": "Autre",
+   "duree_min": 27.6,
+   "km": 4.67,
+   "dplus_m": 27.0,
+   "fc_moy": 142.0,
+   "fc_max": 161.0
+  },
+  "24893445785": {
+   "id": 24893445785,
+   "date": "2026-10-29",
+   "heure": "13:53",
+   "nom": "Caen - M - Footing - 60min",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 58.5,
+   "km": 11.6,
+   "dplus_m": 63.0,
+   "fc_moy": 151.0,
+   "fc_max": 168.0
+  },
+  "24901726187": {
+   "id": 24901726187,
+   "date": "2026-10-30",
+   "heure": "08:45",
+   "nom": "Caen Marche à pied",
+   "type_garmin": "walking",
+   "categorie": "Autre",
+   "duree_min": 29.5,
+   "km": 4.05,
+   "dplus_m": 48.0,
+   "fc_moy": 128.0,
+   "fc_max": 161.0
+  },
+  "24938054563": {
+   "id": 24938054563,
+   "date": "2026-11-01",
+   "heure": "08:29",
+   "nom": "Perthes Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 26.3,
+   "km": 4.9,
+   "dplus_m": 9.0,
+   "fc_moy": 143.0,
+   "fc_max": 155.0
+  },
+  "24955961243": {
+   "id": 24955961243,
+   "date": "2026-11-03",
+   "heure": "19:53",
+   "nom": "Caen - T - 15k",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 47.5,
+   "km": 9.93,
+   "dplus_m": 52.0,
+   "fc_moy": 168.0,
+   "fc_max": 186.0
+  },
+  "24963754633": {
+   "id": 24963754633,
+   "date": "2026-11-04",
+   "heure": "12:58",
+   "nom": "Course à pied sur tapis roulant",
+   "type_garmin": "treadmill_running",
+   "categorie": "Course",
+   "duree_min": 55.0,
+   "km": 9.13,
+   "dplus_m": null,
+   "fc_moy": 156.0,
+   "fc_max": 168.0
+  },
+  "24978953568": {
+   "id": 24978953568,
+   "date": "2026-11-05",
+   "heure": "19:16",
+   "nom": "Course à pied sur tapis roulant",
+   "type_garmin": "treadmill_running",
+   "categorie": "Course",
+   "duree_min": 40.1,
+   "km": 7.0,
+   "dplus_m": null,
+   "fc_moy": 161.0,
+   "fc_max": 185.0
+  },
+  "24989485132": {
+   "id": 24989485132,
+   "date": "2026-11-06",
+   "heure": "18:29",
+   "nom": "Caen Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 48.2,
+   "km": 9.04,
+   "dplus_m": 44.0,
+   "fc_moy": 152.0,
+   "fc_max": 171.0
+  },
+  "24995907439": {
+   "id": 24995907439,
+   "date": "2026-11-07",
+   "heure": "08:28",
+   "nom": "Caen Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 50.0,
+   "km": 9.16,
+   "dplus_m": 58.0,
+   "fc_moy": 148.0,
+   "fc_max": 166.0
+  },
+  "24995908452": {
+   "id": 24995908452,
+   "date": "2026-11-07",
+   "heure": "09:58",
+   "nom": "Caen Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 25.0,
+   "km": 5.0,
+   "dplus_m": 11.0,
+   "fc_moy": 145.0,
+   "fc_max": 154.0
+  },
+  "24998420215": {
+   "id": 24998420215,
+   "date": "2026-11-07",
+   "heure": "15:36",
+   "nom": "Course a pied tapis",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 1800.0,
+   "km": 4.0,
+   "dplus_m": 400.0,
+   "fc_moy": null,
+   "fc_max": null
+  },
+  "25010836458": {
+   "id": 25010836458,
+   "date": "2026-11-08",
+   "heure": "16:23",
+   "nom": "Caen Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 15.3,
+   "km": 2.61,
+   "dplus_m": 3.0,
+   "fc_moy": 140.0,
+   "fc_max": 150.0
+  },
+  "25012621245": {
+   "id": 25012621245,
+   "date": "2026-11-08",
+   "heure": "18:44",
+   "nom": "Caen Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 37.5,
+   "km": 6.38,
+   "dplus_m": 55.0,
+   "fc_moy": 145.0,
+   "fc_max": 167.0
+  },
+  "25019170622": {
+   "id": 25019170622,
+   "date": "2026-11-09",
+   "heure": "13:05",
+   "nom": "Cardio",
+   "type_garmin": "indoor_cardio",
+   "categorie": "Renfo",
+   "duree_min": 48.8,
+   "km": null,
+   "dplus_m": null,
+   "fc_moy": 116.0,
+   "fc_max": 140.0
+  },
+  "25029838702": {
+   "id": 25029838702,
+   "date": "2026-11-10",
+   "heure": "12:25",
+   "nom": "Course à pied sur tapis roulant",
+   "type_garmin": "treadmill_running",
+   "categorie": "Course",
+   "duree_min": 15.2,
+   "km": 2.63,
+   "dplus_m": null,
+   "fc_moy": 155.0,
+   "fc_max": 178.0
+  },
+  "25030119291": {
+   "id": 25030119291,
+   "date": "2026-11-10",
+   "heure": "12:43",
+   "nom": "Course à pied sur tapis roulant",
+   "type_garmin": "treadmill_running",
+   "categorie": "Course",
+   "duree_min": 20.0,
+   "km": 4.64,
+   "dplus_m": null,
+   "fc_moy": 176.0,
+   "fc_max": 183.0
+  },
+  "25030264928": {
+   "id": 25030264928,
+   "date": "2026-11-10",
+   "heure": "13:05",
+   "nom": "Course à pied sur tapis roulant",
+   "type_garmin": "treadmill_running",
+   "categorie": "Course",
+   "duree_min": 10.0,
+   "km": 1.65,
+   "dplus_m": null,
+   "fc_moy": 157.0,
+   "fc_max": 168.0
+  },
+  "25034634065": {
+   "id": 25034634065,
+   "date": "2026-11-10",
+   "heure": "19:33",
+   "nom": "Stepper",
+   "type_garmin": "stair_climbing",
+   "categorie": "Stepper",
+   "duree_min": 15.0,
+   "km": null,
+   "dplus_m": null,
+   "fc_moy": 134.0,
+   "fc_max": 144.0
+  },
+  "25043816891": {
+   "id": 25043816891,
+   "date": "2026-11-11",
+   "heure": "14:48",
+   "nom": "Caen - Z1",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 46.6,
+   "km": 6.69,
+   "dplus_m": 26.0,
+   "fc_moy": 132.0,
+   "fc_max": 140.0
+  },
+  "25053889982": {
+   "id": 25053889982,
+   "date": "2026-11-12",
+   "heure": "12:48",
+   "nom": "Course à pied sur tapis roulant",
+   "type_garmin": "treadmill_running",
+   "categorie": "Course",
+   "duree_min": 45.2,
+   "km": 7.0,
+   "dplus_m": null,
+   "fc_moy": 154.0,
+   "fc_max": 183.0
+  },
+  "25072650437": {
+   "id": 25072650437,
+   "date": "2026-11-14",
+   "heure": "08:24",
+   "nom": "Noues de Sienne - Z2",
+   "type_garmin": "trail_running",
+   "categorie": "Course",
+   "duree_min": 81.5,
+   "km": 13.63,
+   "dplus_m": 217.0,
+   "fc_moy": 144.0,
+   "fc_max": 166.0
+  },
+  "25078965342": {
+   "id": 25078965342,
+   "date": "2026-11-14",
+   "heure": "17:39",
+   "nom": "Caen - Z1",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 12.3,
+   "km": 2.01,
+   "dplus_m": 1.0,
+   "fc_moy": 140.0,
+   "fc_max": 151.0
+  },
+  "25078966849": {
+   "id": 25078966849,
+   "date": "2026-11-14",
+   "heure": "17:52",
+   "nom": "Mondeville - Z2",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 28.3,
+   "km": 4.55,
+   "dplus_m": 24.0,
+   "fc_moy": 139.0,
+   "fc_max": 164.0
+  },
+  "25100951383": {
+   "id": 25100951383,
+   "date": "2026-11-16",
+   "heure": "19:27",
+   "nom": "Caen - Z2",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 36.5,
+   "km": 6.27,
+   "dplus_m": 33.0,
+   "fc_moy": 143.0,
+   "fc_max": 158.0
+  },
+  "25107148199": {
+   "id": 25107148199,
+   "date": "2026-11-17",
+   "heure": "11:35",
+   "nom": "Course à pied sur tapis roulant",
+   "type_garmin": "treadmill_running",
+   "categorie": "Course",
+   "duree_min": 60.0,
+   "km": 9.14,
+   "dplus_m": null,
+   "fc_moy": 153.0,
+   "fc_max": 172.0
+  },
+  "25112168412": {
+   "id": 25112168412,
+   "date": "2026-11-17",
+   "heure": "19:40",
+   "nom": "Course à pied sur tapis roulant",
+   "type_garmin": "treadmill_running",
+   "categorie": "Course",
+   "duree_min": 40.0,
+   "km": 5.7,
+   "dplus_m": null,
+   "fc_moy": 152.0,
+   "fc_max": 178.0
+  },
+  "25119127327": {
+   "id": 25119127327,
+   "date": "2026-11-18",
+   "heure": "12:35",
+   "nom": "Course à pied sur tapis roulant",
+   "type_garmin": "treadmill_running",
+   "categorie": "Course",
+   "duree_min": 50.1,
+   "km": 7.8,
+   "dplus_m": null,
+   "fc_moy": 144.0,
+   "fc_max": 157.0
+  },
+  "25122814031": {
+   "id": 25122814031,
+   "date": "2026-11-18",
+   "heure": "18:46",
+   "nom": "Cardio",
+   "type_garmin": "indoor_cardio",
+   "categorie": "Renfo",
+   "duree_min": 31.8,
+   "km": null,
+   "dplus_m": null,
+   "fc_moy": 112.0,
+   "fc_max": 145.0
+  },
+  "25123020182": {
+   "id": 25123020182,
+   "date": "2026-11-18",
+   "heure": "19:20",
+   "nom": "Stepper",
+   "type_garmin": "stair_climbing",
+   "categorie": "Stepper",
+   "duree_min": 15.0,
+   "km": null,
+   "dplus_m": null,
+   "fc_moy": 134.0,
+   "fc_max": 155.0
+  },
+  "25130294355": {
+   "id": 25130294355,
+   "date": "2026-11-19",
+   "heure": "13:00",
+   "nom": "Course à pied sur tapis roulant",
+   "type_garmin": "treadmill_running",
+   "categorie": "Course",
+   "duree_min": 40.2,
+   "km": 6.45,
+   "dplus_m": null,
+   "fc_moy": 152.0,
+   "fc_max": 181.0
+  },
+  "25143364285": {
+   "id": 25143364285,
+   "date": "2026-11-20",
+   "heure": "17:18",
+   "nom": "Caen Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 40.0,
+   "km": 7.27,
+   "dplus_m": 48.0,
+   "fc_moy": 142.0,
+   "fc_max": 173.0
+  },
+  "25149675865": {
+   "id": 25149675865,
+   "date": "2026-11-21",
+   "heure": "09:32",
+   "nom": "Le Hom - Z2",
+   "type_garmin": "trail_running",
+   "categorie": "Course",
+   "duree_min": 104.7,
+   "km": 15.05,
+   "dplus_m": 673.0,
+   "fc_moy": 147.0,
+   "fc_max": 165.0
+  }
+ },
+ "mis_a_jour": "2026-11-21T16:47:31+01:00",
+ "derniere_fenetre": {
+  "debut": "2026-07-25",
+  "fin": "2026-11-21"
+ }
+}

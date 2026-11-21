@@ -1,0 +1,22 @@
+2026-11-21T16:47:31+01:00 | fenêtre 2026-07-25 → 2026-11-21 | 125 séances | 21 erreurs
+    ERREUR sommeil (2026-07-25_2026-11-21) : HttpError GET https://personal.connectapi.garmin.com/sleep-service/sleep/dailySleepSummariesByDate returned HTTP 400: {}
+    ERREUR stress (2026-07-25_2026-11-21) : HttpError GET https://personal.connectapi.garmin.com/usersummary-service/stats/stress/daily/2026-07-25/2026-11-21 returned HTTP 400: {}
+    ERREUR body_battery (2026-07-25_2026-11-21) : HttpError GET https://personal.connectapi.garmin.com/wellness-service/wellness/bodyBattery/reports/daily returned HTTP 400: {}
+    ERREUR pas (2026-07-25_2026-11-21) : HttpError GET https://personal.connectapi.garmin.com/usersummary-service/stats/steps/daily/2026-07-25/2026-11-21 returned HTTP 400: {}
+    ERREUR fichier FIT 24506858150 : HttpError GET https://personal.connectapi.garmin.com/download-service/files/activity/24506858150 returned HTTP 429: {"count":101,"limit":100,"retryInSeconds":2,"rateLimitMetaData":1}
+    ERREUR fichier FIT 24497213374 : HttpError GET https://personal.connectapi.garmin.com/download-service/files/activity/24497213374 returned HTTP 429: {"count":102,"limit":100,"retryInSeconds":1,"rateLimitMetaData":1}
+    ERREUR fichier FIT 24472977355 : HttpError GET https://personal.connectapi.garmin.com/download-service/files/activity/24472977355 returned HTTP 429: {"count":103,"limit":100,"retryInSeconds":1,"rateLimitMetaData":1}
+    ERREUR fichier FIT 24460760621 : HttpError GET https://personal.connectapi.garmin.com/download-service/files/activity/24460760621 returned HTTP 429: {"count":104,"limit":100,"retryInSeconds":1,"rateLimitMetaData":1}
+    ERREUR fichier FIT 24454808625 : HttpError GET https://personal.connectapi.garmin.com/download-service/files/activity/24454808625 returned HTTP 429: {"count":105,"limit":100,"retryInSeconds":1,"rateLimitMetaData":1}
+    ERREUR fichier FIT 24446941903 : HttpError GET https://personal.connectapi.garmin.com/download-service/files/activity/24446941903 returned HTTP 429: {"count":106,"limit":100,"retryInSeconds":1,"rateLimitMetaData":1}
+    ERREUR fichier FIT 24427608300 : HttpError GET https://personal.connectapi.garmin.com/download-service/files/activity/24427608300 returned HTTP 429: {"count":107,"limit":100,"retryInSeconds":1,"rateLimitMetaData":1}
+    ERREUR fichier FIT 24423688817 : HttpError GET https://personal.connectapi.garmin.com/download-service/files/activity/24423688817 returned HTTP 429: {"count":108,"limit":100,"retryInSeconds":1,"rateLimitMetaData":1}
+    ERREUR fichier FIT 24423191216 : HttpError GET https://personal.connectapi.garmin.com/download-service/files/activity/24423191216 returned HTTP 429: {"count":109,"limit":100,"retryInSeconds":1,"rateLimitMetaData":1}
+    ERREUR fichier FIT 24417077403 : HttpError GET https://personal.connectapi.garmin.com/download-service/files/activity/24417077403 returned HTTP 429: {"count":110,"limit":100,"retryInSeconds":1,"rateLimitMetaData":1}
+    ERREUR fichier FIT 24400097145 : HttpError GET https://personal.connectapi.garmin.com/download-service/files/activity/24400097145 returned HTTP 429: {"count":111,"limit":100,"retryInSeconds":1,"rateLimitMetaData":1}
+    ERREUR fichier FIT 24387671060 : HttpError GET https://personal.connectapi.garmin.com/download-service/files/activity/24387671060 returned HTTP 429: {"count":112,"limit":100,"retryInSeconds":0,"rateLimitMetaData":1}
+    ERREUR fichier FIT 24369085605 : HttpError GET https://personal.connectapi.garmin.com/download-service/files/activity/24369085605 returned HTTP 429: {"count":113,"limit":100,"retryInSeconds":0,"rateLimitMetaData":1}
+    ERREUR fichier FIT 24338535829 : HttpError GET https://personal.connectapi.garmin.com/download-service/files/activity/24338535829 returned HTTP 429: {"count":114,"limit":100,"retryInSeconds":0,"rateLimitMetaData":1}
+    ERREUR fichier FIT 24324436880 : HttpError GET https://personal.connectapi.garmin.com/download-service/files/activity/24324436880 returned HTTP 429: {"count":115,"limit":100,"retryInSeconds":0,"rateLimitMetaData":1}
+    ERREUR fichier FIT 24282560204 : HttpError GET https://personal.connectapi.garmin.com/download-service/files/activity/24282560204 returned HTTP 429: {"count":116,"limit":100,"retryInSeconds":0,"rateLimitMetaData":1}
+    ERREUR fichier FIT 24266666973 : HttpError GET https://personal.connectapi.garmin.com/download-service/files/activity/24266666973 returned HTTP 429: {"count":117,"limit":100,"retryInSeconds":0,"rateLimitMetaData":1}
