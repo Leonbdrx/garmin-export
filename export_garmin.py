@@ -93,11 +93,20 @@ def par_jour(obj, acc: dict[str, list] | None = None) -> dict[str, list]:
     return acc
 
 
-def valeur_du_jour(blocs_par_jour: dict[str, list], jour: str, cles: tuple[str, ...], dernier=False):
+def valeur_du_jour(blocs_par_jour: dict[str, list], jour: str, cles: tuple[str, ...], dernier=False,
+                   sous_bloc: str | None = None):
     blocs = blocs_par_jour.get(jour, [])
     if dernier:
         blocs = list(reversed(blocs))
+    if sous_bloc:
+        # Cherche seulement dans un sous-bloc (ex. "heartRate") : "maxValue" existe aussi ailleurs.
+        blocs = [b.get(sous_bloc) for b in blocs if isinstance(b.get(sous_bloc), dict)]
     return chercher(blocs, cles)
+
+
+def positif(val):
+    """Garmin met -1 (ou -2) quand la montre n'a rien mesuré : on laisse la case vide."""
+    return val if val is None or val >= 0 else None
 
 
 # ---------------------------------------------------------------- écriture
@@ -274,15 +283,15 @@ def recuperer_sante(client, debut: date, fin: date) -> dict[str, dict]:
         jours[j] = {
             "vfc_nuit_ms": valeur_vfc,
             "fc_repos_bpm": valeur_du_jour(resumes, j, ("restingHeartRate", "restingHeartRateValue"))
-            or valeur_du_jour(resumes, j, ("restingHr", "resting")),
+            or valeur_du_jour(resumes, j, ("restingValue",), sous_bloc="heartRate"),
             "poids_kg": poids_kg(valeur_du_jour(poids, j, ("weight", "weightInGrams"), dernier=True)),
             "sommeil_h": round(sommeil_s / 3600, 2) if sommeil_s else None,
-            "stress_moyen": valeur_du_jour(
+            "stress_moyen": positif(valeur_du_jour(
                 stress, j, ("averageStressLevel", "overallStressLevel", "avgStressLevel", "value")
-            ),
+            )),
             "body_battery_max": valeur_du_jour(
-                batterie, j, ("bodyBatteryHighestValue", "highestValue", "highest", "max")
-            ),
+                batterie, j, ("bodyBatteryHighestValue", "highestValue", "highest")
+            ) or valeur_du_jour(resumes, j, ("maxValue",), sous_bloc="bodyBattery"),
             "pas": valeur_du_jour(pas, j, ("totalSteps", "steps", "stepCount")),
         }
         jour += timedelta(days=1)
@@ -308,6 +317,9 @@ def fusionner(carnet: dict, jours: dict[str, dict], seances: list[dict]) -> None
         for cle, val in valeurs.items():
             if val is not None:
                 existant[cle] = val  # une valeur absente aujourd'hui n'efface pas l'ancienne
+    for valeurs in carnet["jours"].values():
+        if (valeurs.get("stress_moyen") or 0) < 0:
+            del valeurs["stress_moyen"]  # nettoie les anciens -1 (montre non portée)
     for s in seances:
         carnet["seances"][str(s["id"])] = s
     carnet["jours"] = dict(sorted(carnet["jours"].items()))
