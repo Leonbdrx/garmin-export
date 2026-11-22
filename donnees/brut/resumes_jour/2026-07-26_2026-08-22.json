@@ -1,0 +1,2211 @@
+{
+ "data": [
+  {
+   "bodyBattery": {
+    "activityEvents": [
+     {
+      "bodyBatteryImpact": 0,
+      "deviceId": 3462759976,
+      "durationInMillis": 600000,
+      "eventStartTimeGmt": "2026-07-26T11:52:15.0",
+      "eventStartTimeLocal": "2026-07-26T13:52:15.0",
+      "eventType": "NAP",
+      "feedbackType": "NONE",
+      "shortFeedback": "NONE"
+     }
+    ],
+    "dynamicFeedbackEvent": {
+     "bodyBatteryLevel": "HIGH",
+     "eventTimestampGmt": "2026-07-26T21:30:13.0",
+     "feedbackLongType": "NO_DATA",
+     "feedbackShortType": "NO_DATA"
+    }
+   },
+   "calendarDate": "2026-07-26",
+   "calories": {
+    "burnedActive": 299,
+    "burnedResting": 2069,
+    "burnedTotal": 2368,
+    "consumedGoal": 2140,
+    "consumedRemaining": 2439
+   },
+   "heartRate": {},
+   "hydration": {},
+   "includesActivityData": false,
+   "includesWellnessData": true,
+   "intensityMinutes": {
+    "goal": 360,
+    "moderate": 41,
+    "vigorous": 0
+   },
+   "jetLag": {},
+   "movement": {
+    "floorsAscended": {
+     "distanceInMeters": 47.66,
+     "goal": 0,
+     "value": 15
+    },
+    "floorsDescended": {
+     "distanceInMeters": 44.35,
+     "value": 14
+    },
+    "pushes": {},
+    "steps": {
+     "distanceInMeters": 9381.0,
+     "goal": 20000,
+     "value": 11644
+    }
+   },
+   "pulseOx": {
+    "avgAltitudeInMeters": 37.0
+   },
+   "respiration": {},
+   "source": "garmin",
+   "stress": {
+    "activityProportion": 0.0,
+    "avgLevel": -1,
+    "highStressProportion": 0.0,
+    "lowStressProportion": 0.0,
+    "mediumStressProportion": 0.0,
+    "qualifier": "unknown",
+    "restProportion": 0.0,
+    "totalDurationInMillis": 86400000,
+    "uncategorizedDurationInMillis": 86400000,
+    "uncategorizedProportion": 1.0
+   },
+   "userProfilePk": 120149354,
+   "uuid": "9fec57ed-3eaf-4d15-8564-0991aa50f652",
+   "wellnessChronology": {
+    "endTimestampGmt": "2026-07-26T22:00:00.0",
+    "endTimestampLocal": "2026-07-27T00:00:00.0",
+    "startTimestampGmt": "2026-07-25T22:00:00.0",
+    "startTimestampLocal": "2026-07-26T00:00:00.0",
+    "totalDurationInMillis": 86400000
+   }
+  },
+  {
+   "bodyBattery": {
+    "dynamicFeedbackEvent": {
+     "bodyBatteryLevel": "HIGH",
+     "eventTimestampGmt": "2026-07-27T21:30:13.0",
+     "feedbackLongType": "NO_DATA",
+     "feedbackShortType": "NO_DATA"
+    }
+   },
+   "calendarDate": "2026-07-27",
+   "calories": {
+    "burnedActive": 134,
+    "burnedResting": 2069,
+    "burnedTotal": 2203,
+    "consumedGoal": 2140,
+    "consumedRemaining": 2274
+   },
+   "heartRate": {},
+   "hydration": {},
+   "includesActivityData": false,
+   "includesWellnessData": true,
+   "intensityMinutes": {
+    "goal": 360,
+    "moderate": 8,
+    "vigorous": 0
+   },
+   "jetLag": {},
+   "movement": {
+    "floorsAscended": {
+     "distanceInMeters": 25.86,
+     "goal": 0,
+     "value": 8
+    },
+    "floorsDescended": {
+     "distanceInMeters": 34.01,
+     "value": 11
+    },
+    "pushes": {},
+    "steps": {
+     "distanceInMeters": 3588.0,
+     "goal": 20000,
+     "value": 4200
+    }
+   },
+   "pulseOx": {
+    "avgAltitudeInMeters": 77.0
+   },
+   "respiration": {},
+   "source": "garmin",
+   "stress": {
+    "activityProportion": 0.0,
+    "avgLevel": -1,
+    "highStressProportion": 0.0,
+    "lowStressProportion": 0.0,
+    "mediumStressProportion": 0.0,
+    "qualifier": "unknown",
+    "restProportion": 0.0,
+    "totalDurationInMillis": 86400000,
+    "uncategorizedDurationInMillis": 86400000,
+    "uncategorizedProportion": 1.0
+   },
+   "userProfilePk": 120149354,
+   "uuid": "bc56d0bb-d9f2-4c48-8c2a-80f4f9d09c67",
+   "wellnessChronology": {
+    "endTimestampGmt": "2026-07-27T22:00:00.0",
+    "endTimestampLocal": "2026-07-28T00:00:00.0",
+    "startTimestampGmt": "2026-07-26T22:00:00.0",
+    "startTimestampLocal": "2026-07-27T00:00:00.0",
+    "totalDurationInMillis": 86400000
+   }
+  },
+  {
+   "bodyBattery": {
+    "dynamicFeedbackEvent": {
+     "bodyBatteryLevel": "HIGH",
+     "eventTimestampGmt": "2026-07-28T21:30:09.0",
+     "feedbackLongType": "NO_DATA",
+     "feedbackShortType": "NO_DATA"
+    }
+   },
+   "calendarDate": "2026-07-28",
+   "calories": {
+    "burnedActive": 198,
+    "burnedResting": 2069,
+    "burnedTotal": 2267,
+    "consumedGoal": 2140,
+    "consumedRemaining": 2338
+   },
+   "heartRate": {},
+   "hydration": {},
+   "includesActivityData": false,
+   "includesWellnessData": true,
+   "intensityMinutes": {
+    "goal": 360,
+    "moderate": 12,
+    "vigorous": 0
+   },
+   "jetLag": {},
+   "movement": {
+    "floorsAscended": {
+     "distanceInMeters": 44.72,
+     "goal": 0,
+     "value": 14
+    },
+    "floorsDescended": {
+     "distanceInMeters": 21.91,
+     "value": 7
+    },
+    "pushes": {},
+    "steps": {
+     "distanceInMeters": 5028.0,
+     "goal": 20000,
+     "value": 5752
+    }
+   },
+   "pulseOx": {
+    "avgAltitudeInMeters": 93.0
+   },
+   "respiration": {},
+   "source": "garmin",
+   "stress": {
+    "activityProportion": 0.0,
+    "avgLevel": -1,
+    "highStressProportion": 0.0,
+    "lowStressProportion": 0.0,
+    "mediumStressProportion": 0.0,
+    "qualifier": "unknown",
+    "restProportion": 0.0,
+    "totalDurationInMillis": 86400000,
+    "uncategorizedDurationInMillis": 86400000,
+    "uncategorizedProportion": 1.0
+   },
+   "userProfilePk": 120149354,
+   "uuid": "de99eccc-83cc-40e0-aaf2-495a68c46ede",
+   "wellnessChronology": {
+    "endTimestampGmt": "2026-07-28T22:00:00.0",
+    "endTimestampLocal": "2026-07-29T00:00:00.0",
+    "startTimestampGmt": "2026-07-27T22:00:00.0",
+    "startTimestampLocal": "2026-07-28T00:00:00.0",
+    "totalDurationInMillis": 86400000
+   }
+  },
+  {
+   "bodyBattery": {
+    "dynamicFeedbackEvent": {
+     "bodyBatteryLevel": "HIGH",
+     "eventTimestampGmt": "2026-07-29T21:30:15.0",
+     "feedbackLongType": "NO_DATA",
+     "feedbackShortType": "NO_DATA"
+    }
+   },
+   "calendarDate": "2026-07-29",
+   "calories": {
+    "burnedActive": 115,
+    "burnedResting": 2069,
+    "burnedTotal": 2184,
+    "consumedGoal": 2140,
+    "consumedRemaining": 2255
+   },
+   "heartRate": {},
+   "hydration": {},
+   "includesActivityData": false,
+   "includesWellnessData": true,
+   "intensityMinutes": {
+    "goal": 360,
+    "moderate": 0,
+    "vigorous": 0
+   },
+   "jetLag": {},
+   "movement": {
+    "floorsAscended": {
+     "distanceInMeters": 37.61,
+     "goal": 0,
+     "value": 12
+    },
+    "floorsDescended": {
+     "distanceInMeters": 37.64,
+     "value": 12
+    },
+    "pushes": {},
+    "steps": {
+     "distanceInMeters": 3780.0,
+     "goal": 20000,
+     "value": 4754
+    }
+   },
+   "pulseOx": {
+    "avgAltitudeInMeters": 85.0
+   },
+   "respiration": {},
+   "source": "garmin",
+   "stress": {
+    "activityProportion": 0.0,
+    "avgLevel": -1,
+    "highStressProportion": 0.0,
+    "lowStressProportion": 0.0,
+    "mediumStressProportion": 0.0,
+    "qualifier": "unknown",
+    "restProportion": 0.0,
+    "totalDurationInMillis": 86400000,
+    "uncategorizedDurationInMillis": 86400000,
+    "uncategorizedProportion": 1.0
+   },
+   "userProfilePk": 120149354,
+   "uuid": "f1ed5267-aab7-4bb2-a95f-b7cead43e15b",
+   "wellnessChronology": {
+    "endTimestampGmt": "2026-07-29T22:00:00.0",
+    "endTimestampLocal": "2026-07-30T00:00:00.0",
+    "startTimestampGmt": "2026-07-28T22:00:00.0",
+    "startTimestampLocal": "2026-07-29T00:00:00.0",
+    "totalDurationInMillis": 86400000
+   }
+  },
+  {
+   "bodyBattery": {
+    "activityEvents": [
+     {
+      "bodyBatteryImpact": -3,
+      "deviceId": 3462759976,
+      "durationInMillis": 2340000,
+      "eventStartTimeGmt": "2026-07-30T18:51:03.0",
+      "eventStartTimeLocal": "2026-07-30T20:51:03.0",
+      "eventType": "ACTIVITY",
+      "feedbackType": "EXERCISE_TRAINING_EFFECT_BELOW_2",
+      "shortFeedback": "EASY_RECOVERY"
+     }
+    ],
+    "dynamicFeedbackEvent": {
+     "bodyBatteryLevel": "HIGH",
+     "eventTimestampGmt": "2026-07-30T21:30:09.0",
+     "feedbackLongType": "NO_DATA",
+     "feedbackShortType": "NO_DATA"
+    }
+   },
+   "calendarDate": "2026-07-30",
+   "calories": {
+    "burnedActive": 688,
+    "burnedResting": 2069,
+    "burnedTotal": 2757,
+    "consumedGoal": 2140,
+    "consumedRemaining": 2828
+   },
+   "heartRate": {},
+   "hydration": {
+    "consumedInFractionalMl": 0.0,
+    "consumedInMl": 0,
+    "goalInFractionalMl": 4639.0,
+    "goalInMl": 4639
+   },
+   "includesActivityData": true,
+   "includesWellnessData": true,
+   "intensityMinutes": {
+    "goal": 360,
+    "moderate": 55,
+    "vigorous": 0
+   },
+   "jetLag": {},
+   "movement": {
+    "floorsAscended": {
+     "distanceInMeters": 62.44,
+     "goal": 0,
+     "value": 20
+    },
+    "floorsDescended": {
+     "distanceInMeters": 65.72,
+     "value": 21
+    },
+    "pushes": {},
+    "steps": {
+     "distanceInMeters": 13588.0,
+     "goal": 20000,
+     "value": 15485
+    }
+   },
+   "pulseOx": {
+    "avgAltitudeInMeters": 60.0
+   },
+   "respiration": {},
+   "source": "garmin",
+   "stress": {
+    "activityProportion": 0.0,
+    "avgLevel": -1,
+    "highStressProportion": 0.0,
+    "lowStressProportion": 0.0,
+    "mediumStressProportion": 0.0,
+    "qualifier": "unknown",
+    "restProportion": 0.0,
+    "totalDurationInMillis": 86280000,
+    "uncategorizedDurationInMillis": 86280000,
+    "uncategorizedProportion": 1.0
+   },
+   "userProfilePk": 120149354,
+   "uuid": "81e63bff-cd00-44fc-92bb-4756d6642c25",
+   "wellnessChronology": {
+    "endTimestampGmt": "2026-07-30T22:00:00.0",
+    "endTimestampLocal": "2026-07-31T00:00:00.0",
+    "startTimestampGmt": "2026-07-29T22:00:00.0",
+    "startTimestampLocal": "2026-07-30T00:00:00.0",
+    "totalDurationInMillis": 86400000
+   }
+  },
+  {
+   "bodyBattery": {
+    "dynamicFeedbackEvent": {
+     "bodyBatteryLevel": "HIGH",
+     "eventTimestampGmt": "2026-07-31T21:30:13.0",
+     "feedbackLongType": "NO_DATA",
+     "feedbackShortType": "NO_DATA"
+    }
+   },
+   "calendarDate": "2026-07-31",
+   "calories": {
+    "burnedActive": 150,
+    "burnedResting": 2069,
+    "burnedTotal": 2219,
+    "consumedGoal": 2140,
+    "consumedRemaining": 2290
+   },
+   "heartRate": {},
+   "hydration": {},
+   "includesActivityData": false,
+   "includesWellnessData": true,
+   "intensityMinutes": {
+    "goal": 360,
+    "moderate": 8,
+    "vigorous": 0
+   },
+   "jetLag": {},
+   "movement": {
+    "floorsAscended": {
+     "distanceInMeters": 32.41,
+     "goal": 0,
+     "value": 10
+    },
+    "floorsDescended": {
+     "distanceInMeters": 37.31,
+     "value": 12
+    },
+    "pushes": {},
+    "steps": {
+     "distanceInMeters": 4238.0,
+     "goal": 20000,
+     "value": 5062
+    }
+   },
+   "pulseOx": {
+    "avgAltitudeInMeters": 62.0
+   },
+   "respiration": {},
+   "source": "garmin",
+   "stress": {
+    "activityProportion": 0.0,
+    "avgLevel": -1,
+    "highStressProportion": 0.0,
+    "lowStressProportion": 0.0,
+    "mediumStressProportion": 0.0,
+    "qualifier": "unknown",
+    "restProportion": 0.0,
+    "totalDurationInMillis": 86400000,
+    "uncategorizedDurationInMillis": 86400000,
+    "uncategorizedProportion": 1.0
+   },
+   "userProfilePk": 120149354,
+   "uuid": "bfaa7020-0578-40f4-b9f6-0d6b4785907d",
+   "wellnessChronology": {
+    "endTimestampGmt": "2026-07-31T22:00:00.0",
+    "endTimestampLocal": "2026-08-01T00:00:00.0",
+    "startTimestampGmt": "2026-07-30T22:00:00.0",
+    "startTimestampLocal": "2026-07-31T00:00:00.0",
+    "totalDurationInMillis": 86400000
+   }
+  },
+  {
+   "bodyBattery": {
+    "activityEvents": [
+     {
+      "bodyBatteryImpact": -20,
+      "deviceId": 3462759976,
+      "durationInMillis": 11820000,
+      "eventStartTimeGmt": "2026-08-01T06:19:22.0",
+      "eventStartTimeLocal": "2026-08-01T08:19:22.0",
+      "eventType": "ACTIVITY",
+      "feedbackType": "EXERCISE_TRAINING_EFFECT_3",
+      "shortFeedback": "IMPROVING_TEMPO"
+     },
+     {
+      "bodyBatteryImpact": 0,
+      "deviceId": 3462759976,
+      "durationInMillis": 1200000,
+      "eventStartTimeGmt": "2026-08-01T15:17:09.0",
+      "eventStartTimeLocal": "2026-08-01T17:17:09.0",
+      "eventType": "NAP",
+      "feedbackType": "NONE",
+      "shortFeedback": "NONE"
+     }
+    ],
+    "dynamicFeedbackEvent": {
+     "bodyBatteryLevel": "HIGH",
+     "eventTimestampGmt": "2026-08-01T19:00:16.0",
+     "feedbackLongType": "NO_DATA",
+     "feedbackShortType": "NO_DATA"
+    }
+   },
+   "calendarDate": "2026-08-01",
+   "calories": {
+    "burnedActive": 2458,
+    "burnedResting": 2069,
+    "burnedTotal": 4527,
+    "consumedGoal": 2140,
+    "consumedRemaining": 4598
+   },
+   "heartRate": {},
+   "hydration": {
+    "consumedInFractionalMl": 0.0,
+    "consumedInMl": 0,
+    "goalInFractionalMl": 7081.0,
+    "goalInMl": 7081
+   },
+   "includesActivityData": true,
+   "includesWellnessData": true,
+   "intensityMinutes": {
+    "goal": 360,
+    "moderate": 224,
+    "vigorous": 0
+   },
+   "jetLag": {},
+   "movement": {
+    "floorsAscended": {
+     "distanceInMeters": 1045.59,
+     "goal": 0,
+     "value": 343
+    },
+    "floorsDescended": {
+     "distanceInMeters": 1000.95,
+     "value": 328
+    },
+    "pushes": {},
+    "steps": {
+     "distanceInMeters": 37607.0,
+     "goal": 20000,
+     "value": 37426
+    }
+   },
+   "pulseOx": {
+    "avgAltitudeInMeters": 62.0
+   },
+   "respiration": {},
+   "source": "garmin",
+   "stress": {
+    "activityProportion": 0.0,
+    "avgLevel": -1,
+    "highStressProportion": 0.0,
+    "lowStressProportion": 0.0,
+    "mediumStressProportion": 0.0,
+    "qualifier": "unknown",
+    "restProportion": 0.0,
+    "totalDurationInMillis": 85980000,
+    "uncategorizedDurationInMillis": 85980000,
+    "uncategorizedProportion": 1.0
+   },
+   "userProfilePk": 120149354,
+   "uuid": "c6b6b85d-076b-4a6e-ad5c-209c1f535d86",
+   "wellnessChronology": {
+    "endTimestampGmt": "2026-08-01T22:00:00.0",
+    "endTimestampLocal": "2026-08-02T00:00:00.0",
+    "startTimestampGmt": "2026-07-31T22:00:00.0",
+    "startTimestampLocal": "2026-08-01T00:00:00.0",
+    "totalDurationInMillis": 86400000
+   }
+  },
+  {
+   "bodyBattery": {
+    "activityEvents": [
+     {
+      "bodyBatteryImpact": 0,
+      "deviceId": 3462759976,
+      "durationInMillis": 780000,
+      "eventStartTimeGmt": "2026-08-02T12:53:02.0",
+      "eventStartTimeLocal": "2026-08-02T14:53:02.0",
+      "eventType": "NAP",
+      "feedbackType": "NONE",
+      "shortFeedback": "NONE"
+     }
+    ],
+    "dynamicFeedbackEvent": {
+     "bodyBatteryLevel": "HIGH",
+     "eventTimestampGmt": "2026-08-02T21:30:17.0",
+     "feedbackLongType": "NO_DATA",
+     "feedbackShortType": "NO_DATA"
+    }
+   },
+   "calendarDate": "2026-08-02",
+   "calories": {
+    "burnedActive": 169,
+    "burnedResting": 2069,
+    "burnedTotal": 2238,
+    "consumedGoal": 2140,
+    "consumedRemaining": 2309
+   },
+   "heartRate": {},
+   "hydration": {},
+   "includesActivityData": false,
+   "includesWellnessData": true,
+   "intensityMinutes": {
+    "goal": 360,
+    "moderate": 18,
+    "vigorous": 0
+   },
+   "jetLag": {},
+   "movement": {
+    "floorsAscended": {
+     "distanceInMeters": 39.79,
+     "goal": 0,
+     "value": 13
+    },
+    "floorsDescended": {
+     "distanceInMeters": 33.65,
+     "value": 11
+    },
+    "pushes": {},
+    "steps": {
+     "distanceInMeters": 5006.0,
+     "goal": 20000,
+     "value": 6076
+    }
+   },
+   "pulseOx": {
+    "avgAltitudeInMeters": 52.0
+   },
+   "respiration": {},
+   "source": "garmin",
+   "stress": {
+    "activityProportion": 0.0,
+    "avgLevel": -1,
+    "highStressProportion": 0.0,
+    "lowStressProportion": 0.0,
+    "mediumStressProportion": 0.0,
+    "qualifier": "unknown",
+    "restProportion": 0.0,
+    "totalDurationInMillis": 86340000,
+    "uncategorizedDurationInMillis": 86340000,
+    "uncategorizedProportion": 1.0
+   },
+   "userProfilePk": 120149354,
+   "uuid": "92b36335-e986-4014-8d8a-e91df5548e0f",
+   "wellnessChronology": {
+    "endTimestampGmt": "2026-08-02T22:00:00.0",
+    "endTimestampLocal": "2026-08-03T00:00:00.0",
+    "startTimestampGmt": "2026-08-01T22:00:00.0",
+    "startTimestampLocal": "2026-08-02T00:00:00.0",
+    "totalDurationInMillis": 86400000
+   }
+  },
+  {
+   "bodyBattery": {
+    "dynamicFeedbackEvent": {
+     "bodyBatteryLevel": "HIGH",
+     "eventTimestampGmt": "2026-08-03T21:30:11.0",
+     "feedbackLongType": "NO_DATA",
+     "feedbackShortType": "NO_DATA"
+    }
+   },
+   "calendarDate": "2026-08-03",
+   "calories": {
+    "burnedActive": 158,
+    "burnedResting": 2069,
+    "burnedTotal": 2227,
+    "consumedGoal": 2140,
+    "consumedRemaining": 2298
+   },
+   "heartRate": {},
+   "hydration": {},
+   "includesActivityData": false,
+   "includesWellnessData": true,
+   "intensityMinutes": {
+    "goal": 360,
+    "moderate": 0,
+    "vigorous": 0
+   },
+   "jetLag": {},
+   "movement": {
+    "floorsAscended": {
+     "distanceInMeters": 30.48,
+     "goal": 0,
+     "value": 10
+    },
+    "floorsDescended": {
+     "distanceInMeters": 14.92,
+     "value": 4
+    },
+    "pushes": {},
+    "steps": {
+     "distanceInMeters": 4876.0,
+     "goal": 20000,
+     "value": 6017
+    }
+   },
+   "pulseOx": {
+    "avgAltitudeInMeters": 75.0
+   },
+   "respiration": {},
+   "source": "garmin",
+   "stress": {
+    "activityProportion": 0.0,
+    "avgLevel": -1,
+    "highStressProportion": 0.0,
+    "lowStressProportion": 0.0,
+    "mediumStressProportion": 0.0,
+    "qualifier": "unknown",
+    "restProportion": 0.0,
+    "totalDurationInMillis": 86400000,
+    "uncategorizedDurationInMillis": 86400000,
+    "uncategorizedProportion": 1.0
+   },
+   "userProfilePk": 120149354,
+   "uuid": "3a41cff6-69d6-47da-a8c2-a93e47a755e3",
+   "wellnessChronology": {
+    "endTimestampGmt": "2026-08-03T22:00:00.0",
+    "endTimestampLocal": "2026-08-04T00:00:00.0",
+    "startTimestampGmt": "2026-08-02T22:00:00.0",
+    "startTimestampLocal": "2026-08-03T00:00:00.0",
+    "totalDurationInMillis": 86400000
+   }
+  },
+  {
+   "bodyBattery": {
+    "dynamicFeedbackEvent": {
+     "bodyBatteryLevel": "HIGH",
+     "eventTimestampGmt": "2026-08-04T21:30:12.0",
+     "feedbackLongType": "NO_DATA",
+     "feedbackShortType": "NO_DATA"
+    }
+   },
+   "calendarDate": "2026-08-04",
+   "calories": {
+    "burnedActive": 167,
+    "burnedResting": 2069,
+    "burnedTotal": 2236,
+    "consumedGoal": 2140,
+    "consumedRemaining": 2307
+   },
+   "heartRate": {},
+   "hydration": {},
+   "includesActivityData": false,
+   "includesWellnessData": true,
+   "intensityMinutes": {
+    "goal": 360,
+    "moderate": 7,
+    "vigorous": 0
+   },
+   "jetLag": {},
+   "movement": {
+    "floorsAscended": {
+     "distanceInMeters": 43.38,
+     "goal": 0,
+     "value": 14
+    },
+    "floorsDescended": {
+     "distanceInMeters": 28.14,
+     "value": 9
+    },
+    "pushes": {},
+    "steps": {
+     "distanceInMeters": 5240.0,
+     "goal": 20000,
+     "value": 6489
+    }
+   },
+   "pulseOx": {
+    "avgAltitudeInMeters": 88.0
+   },
+   "respiration": {},
+   "source": "garmin",
+   "stress": {
+    "activityProportion": 0.0,
+    "avgLevel": -1,
+    "highStressProportion": 0.0,
+    "lowStressProportion": 0.0,
+    "mediumStressProportion": 0.0,
+    "qualifier": "unknown",
+    "restProportion": 0.0,
+    "totalDurationInMillis": 86400000,
+    "uncategorizedDurationInMillis": 86400000,
+    "uncategorizedProportion": 1.0
+   },
+   "userProfilePk": 120149354,
+   "uuid": "8c3cfd33-98e3-4f21-a83e-f467011f9736",
+   "wellnessChronology": {
+    "endTimestampGmt": "2026-08-04T22:00:00.0",
+    "endTimestampLocal": "2026-08-05T00:00:00.0",
+    "startTimestampGmt": "2026-08-03T22:00:00.0",
+    "startTimestampLocal": "2026-08-04T00:00:00.0",
+    "totalDurationInMillis": 86400000
+   }
+  },
+  {
+   "bodyBattery": {
+    "activityEvents": [
+     {
+      "bodyBatteryImpact": -8,
+      "deviceId": 3462759976,
+      "durationInMillis": 6360000,
+      "eventStartTimeGmt": "2026-08-05T17:23:16.0",
+      "eventStartTimeLocal": "2026-08-05T19:23:16.0",
+      "eventType": "ACTIVITY",
+      "feedbackType": "EXERCISE_TRAINING_EFFECT_2",
+      "shortFeedback": "MAINTAINING_LACTATE_THRESHOLD"
+     }
+    ],
+    "dynamicFeedbackEvent": {
+     "bodyBatteryLevel": "HIGH",
+     "eventTimestampGmt": "2026-08-05T21:30:09.0",
+     "feedbackLongType": "NO_DATA",
+     "feedbackShortType": "NO_DATA"
+    }
+   },
+   "calendarDate": "2026-08-05",
+   "calories": {
+    "burnedActive": 1447,
+    "burnedResting": 2069,
+    "burnedTotal": 3516,
+    "consumedGoal": 2140,
+    "consumedRemaining": 3587
+   },
+   "heartRate": {},
+   "hydration": {
+    "consumedInFractionalMl": 0.0,
+    "consumedInMl": 0,
+    "goalInFractionalMl": 5765.0,
+    "goalInMl": 5765
+   },
+   "includesActivityData": true,
+   "includesWellnessData": true,
+   "intensityMinutes": {
+    "goal": 360,
+    "moderate": 122,
+    "vigorous": 0
+   },
+   "jetLag": {},
+   "movement": {
+    "floorsAscended": {
+     "distanceInMeters": 477.29,
+     "goal": 0,
+     "value": 156
+    },
+    "floorsDescended": {
+     "distanceInMeters": 471.58,
+     "value": 154
+    },
+    "pushes": {},
+    "steps": {
+     "distanceInMeters": 24086.0,
+     "goal": 20000,
+     "value": 26462
+    }
+   },
+   "pulseOx": {
+    "avgAltitudeInMeters": 59.0
+   },
+   "respiration": {},
+   "source": "garmin",
+   "stress": {
+    "activityProportion": 0.0,
+    "avgLevel": -1,
+    "highStressProportion": 0.0,
+    "lowStressProportion": 0.0,
+    "mediumStressProportion": 0.0,
+    "qualifier": "unknown",
+    "restProportion": 0.0,
+    "totalDurationInMillis": 86280000,
+    "uncategorizedDurationInMillis": 86280000,
+    "uncategorizedProportion": 1.0
+   },
+   "userProfilePk": 120149354,
+   "uuid": "e7921da0-d1ba-48b4-b5a4-1f025ade27ac",
+   "wellnessChronology": {
+    "endTimestampGmt": "2026-08-05T22:00:00.0",
+    "endTimestampLocal": "2026-08-06T00:00:00.0",
+    "startTimestampGmt": "2026-08-04T22:00:00.0",
+    "startTimestampLocal": "2026-08-05T00:00:00.0",
+    "totalDurationInMillis": 86400000
+   }
+  },
+  {
+   "bodyBattery": {
+    "dynamicFeedbackEvent": {
+     "bodyBatteryLevel": "HIGH",
+     "eventTimestampGmt": "2026-08-06T21:30:13.0",
+     "feedbackLongType": "NO_DATA",
+     "feedbackShortType": "NO_DATA"
+    }
+   },
+   "calendarDate": "2026-08-06",
+   "calories": {
+    "burnedActive": 128,
+    "burnedResting": 2069,
+    "burnedTotal": 2197,
+    "consumedGoal": 2140,
+    "consumedRemaining": 2268
+   },
+   "heartRate": {},
+   "hydration": {},
+   "includesActivityData": false,
+   "includesWellnessData": true,
+   "intensityMinutes": {
+    "goal": 360,
+    "moderate": 4,
+    "vigorous": 0
+   },
+   "jetLag": {},
+   "movement": {
+    "floorsAscended": {
+     "distanceInMeters": 49.64,
+     "goal": 0,
+     "value": 16
+    },
+    "floorsDescended": {
+     "distanceInMeters": 44.7,
+     "value": 14
+    },
+    "pushes": {},
+    "steps": {
+     "distanceInMeters": 4072.0,
+     "goal": 20000,
+     "value": 5079
+    }
+   },
+   "pulseOx": {
+    "avgAltitudeInMeters": 85.0
+   },
+   "respiration": {},
+   "source": "garmin",
+   "stress": {
+    "activityProportion": 0.0,
+    "avgLevel": -1,
+    "highStressProportion": 0.0,
+    "lowStressProportion": 0.0,
+    "mediumStressProportion": 0.0,
+    "qualifier": "unknown",
+    "restProportion": 0.0,
+    "totalDurationInMillis": 86400000,
+    "uncategorizedDurationInMillis": 86400000,
+    "uncategorizedProportion": 1.0
+   },
+   "userProfilePk": 120149354,
+   "uuid": "ca3ee8ba-9ef7-4536-997e-c4b0821746d4",
+   "wellnessChronology": {
+    "endTimestampGmt": "2026-08-06T22:00:00.0",
+    "endTimestampLocal": "2026-08-07T00:00:00.0",
+    "startTimestampGmt": "2026-08-05T22:00:00.0",
+    "startTimestampLocal": "2026-08-06T00:00:00.0",
+    "totalDurationInMillis": 86400000
+   }
+  },
+  {
+   "bodyBattery": {
+    "dynamicFeedbackEvent": {
+     "bodyBatteryLevel": "HIGH",
+     "eventTimestampGmt": "2026-08-07T21:30:10.0",
+     "feedbackLongType": "NO_DATA",
+     "feedbackShortType": "NO_DATA"
+    }
+   },
+   "calendarDate": "2026-08-07",
+   "calories": {
+    "burnedActive": 59,
+    "burnedResting": 2069,
+    "burnedTotal": 2128,
+    "consumedGoal": 2140,
+    "consumedRemaining": 2199
+   },
+   "heartRate": {},
+   "hydration": {},
+   "includesActivityData": false,
+   "includesWellnessData": true,
+   "intensityMinutes": {
+    "goal": 360,
+    "moderate": 0,
+    "vigorous": 0
+   },
+   "jetLag": {},
+   "movement": {
+    "floorsAscended": {
+     "distanceInMeters": 11.01,
+     "goal": 0,
+     "value": 3
+    },
+    "floorsDescended": {
+     "distanceInMeters": 20.99,
+     "value": 6
+    },
+    "pushes": {},
+    "steps": {
+     "distanceInMeters": 2011.0,
+     "goal": 20000,
+     "value": 2555
+    }
+   },
+   "pulseOx": {
+    "avgAltitudeInMeters": 107.0
+   },
+   "respiration": {},
+   "source": "garmin",
+   "stress": {
+    "activityProportion": 0.0,
+    "avgLevel": -1,
+    "highStressProportion": 0.0,
+    "lowStressProportion": 0.0,
+    "mediumStressProportion": 0.0,
+    "qualifier": "unknown",
+    "restProportion": 0.0,
+    "totalDurationInMillis": 86400000,
+    "uncategorizedDurationInMillis": 86400000,
+    "uncategorizedProportion": 1.0
+   },
+   "userProfilePk": 120149354,
+   "uuid": "9442914c-fd35-42cc-9df2-8f2e8e7d985a",
+   "wellnessChronology": {
+    "endTimestampGmt": "2026-08-07T22:00:00.0",
+    "endTimestampLocal": "2026-08-08T00:00:00.0",
+    "startTimestampGmt": "2026-08-06T22:00:00.0",
+    "startTimestampLocal": "2026-08-07T00:00:00.0",
+    "totalDurationInMillis": 86400000
+   }
+  },
+  {
+   "bodyBattery": {
+    "activityEvents": [
+     {
+      "bodyBatteryImpact": 0,
+      "deviceId": 3462759976,
+      "durationInMillis": 1200000,
+      "eventStartTimeGmt": "2026-08-08T13:20:30.0",
+      "eventStartTimeLocal": "2026-08-08T15:20:30.0",
+      "eventType": "NAP",
+      "feedbackType": "NONE",
+      "shortFeedback": "NONE"
+     }
+    ],
+    "dynamicFeedbackEvent": {
+     "bodyBatteryLevel": "HIGH",
+     "eventTimestampGmt": "2026-08-08T19:00:18.0",
+     "feedbackLongType": "NO_DATA",
+     "feedbackShortType": "NO_DATA"
+    }
+   },
+   "calendarDate": "2026-08-08",
+   "calories": {
+    "burnedActive": 151,
+    "burnedResting": 2069,
+    "burnedTotal": 2220,
+    "consumedGoal": 2140,
+    "consumedRemaining": 2291
+   },
+   "heartRate": {},
+   "hydration": {},
+   "includesActivityData": false,
+   "includesWellnessData": true,
+   "intensityMinutes": {
+    "goal": 360,
+    "moderate": 4,
+    "vigorous": 0
+   },
+   "jetLag": {},
+   "movement": {
+    "floorsAscended": {
+     "distanceInMeters": 17.12,
+     "goal": 0,
+     "value": 5
+    },
+    "floorsDescended": {
+     "distanceInMeters": 15.17,
+     "value": 4
+    },
+    "pushes": {},
+    "steps": {
+     "distanceInMeters": 4049.0,
+     "goal": 20000,
+     "value": 4735
+    }
+   },
+   "pulseOx": {
+    "avgAltitudeInMeters": 131.0
+   },
+   "respiration": {},
+   "source": "garmin",
+   "stress": {
+    "activityProportion": 0.0,
+    "avgLevel": -1,
+    "highStressProportion": 0.0,
+    "lowStressProportion": 0.0,
+    "mediumStressProportion": 0.0,
+    "qualifier": "unknown",
+    "restProportion": 0.0,
+    "totalDurationInMillis": 86400000,
+    "uncategorizedDurationInMillis": 86400000,
+    "uncategorizedProportion": 1.0
+   },
+   "userProfilePk": 120149354,
+   "uuid": "43869a4e-07b0-41dc-9e15-3e5435c2bf7b",
+   "wellnessChronology": {
+    "endTimestampGmt": "2026-08-08T22:00:00.0",
+    "endTimestampLocal": "2026-08-09T00:00:00.0",
+    "startTimestampGmt": "2026-08-07T22:00:00.0",
+    "startTimestampLocal": "2026-08-08T00:00:00.0",
+    "totalDurationInMillis": 86400000
+   }
+  },
+  {
+   "bodyBattery": {
+    "activityEvents": [
+     {
+      "bodyBatteryImpact": -22,
+      "deviceId": 3462759976,
+      "durationInMillis": 13020000,
+      "eventStartTimeGmt": "2026-08-09T05:58:25.0",
+      "eventStartTimeLocal": "2026-08-09T07:58:25.0",
+      "eventType": "ACTIVITY",
+      "feedbackType": "EXERCISE_TRAINING_EFFECT_3",
+      "shortFeedback": "IMPROVING_AEROBIC_BASE"
+     },
+     {
+      "bodyBatteryImpact": 0,
+      "deviceId": 3462759976,
+      "durationInMillis": 1200000,
+      "eventStartTimeGmt": "2026-08-09T12:36:24.0",
+      "eventStartTimeLocal": "2026-08-09T14:36:24.0",
+      "eventType": "NAP",
+      "feedbackType": "NONE",
+      "shortFeedback": "NONE"
+     }
+    ],
+    "dynamicFeedbackEvent": {
+     "bodyBatteryLevel": "HIGH",
+     "eventTimestampGmt": "2026-08-09T21:30:19.0",
+     "feedbackLongType": "NO_DATA",
+     "feedbackShortType": "NO_DATA"
+    }
+   },
+   "calendarDate": "2026-08-09",
+   "calories": {
+    "burnedActive": 2566,
+    "burnedResting": 2069,
+    "burnedTotal": 4635,
+    "consumedGoal": 2140,
+    "consumedRemaining": 4706
+   },
+   "heartRate": {},
+   "hydration": {
+    "consumedInFractionalMl": 0.0,
+    "consumedInMl": 0,
+    "goalInFractionalMl": 7471.0,
+    "goalInMl": 7471
+   },
+   "includesActivityData": true,
+   "includesWellnessData": true,
+   "intensityMinutes": {
+    "goal": 360,
+    "moderate": 233,
+    "vigorous": 0
+   },
+   "jetLag": {},
+   "movement": {
+    "floorsAscended": {
+     "distanceInMeters": 1055.28,
+     "goal": 0,
+     "value": 346
+    },
+    "floorsDescended": {
+     "distanceInMeters": 1052.5,
+     "value": 345
+    },
+    "pushes": {},
+    "steps": {
+     "distanceInMeters": 39123.0,
+     "goal": 20000,
+     "value": 39199
+    }
+   },
+   "pulseOx": {
+    "avgAltitudeInMeters": 93.0
+   },
+   "respiration": {},
+   "source": "garmin",
+   "stress": {
+    "activityProportion": 0.0,
+    "avgLevel": -1,
+    "highStressProportion": 0.0,
+    "lowStressProportion": 0.0,
+    "mediumStressProportion": 0.0,
+    "qualifier": "unknown",
+    "restProportion": 0.0,
+    "totalDurationInMillis": 85980000,
+    "uncategorizedDurationInMillis": 85980000,
+    "uncategorizedProportion": 1.0
+   },
+   "userProfilePk": 120149354,
+   "uuid": "705f1fa0-b7f7-4320-9650-c19eb143a866",
+   "wellnessChronology": {
+    "endTimestampGmt": "2026-08-09T22:00:00.0",
+    "endTimestampLocal": "2026-08-10T00:00:00.0",
+    "startTimestampGmt": "2026-08-08T22:00:00.0",
+    "startTimestampLocal": "2026-08-09T00:00:00.0",
+    "totalDurationInMillis": 86400000
+   }
+  },
+  {
+   "bodyBattery": {
+    "dynamicFeedbackEvent": {
+     "bodyBatteryLevel": "HIGH",
+     "eventTimestampGmt": "2026-08-10T21:30:13.0",
+     "feedbackLongType": "NO_DATA",
+     "feedbackShortType": "NO_DATA"
+    }
+   },
+   "calendarDate": "2026-08-10",
+   "calories": {
+    "burnedActive": 178,
+    "burnedResting": 2069,
+    "burnedTotal": 2247,
+    "consumedGoal": 2140,
+    "consumedRemaining": 2318
+   },
+   "heartRate": {},
+   "hydration": {},
+   "includesActivityData": false,
+   "includesWellnessData": true,
+   "intensityMinutes": {
+    "goal": 360,
+    "moderate": 0,
+    "vigorous": 0
+   },
+   "jetLag": {},
+   "movement": {
+    "floorsAscended": {
+     "distanceInMeters": 59.92,
+     "goal": 0,
+     "value": 19
+    },
+    "floorsDescended": {
+     "distanceInMeters": 57.6,
+     "value": 18
+    },
+    "pushes": {},
+    "steps": {
+     "distanceInMeters": 5142.0,
+     "goal": 20000,
+     "value": 6208
+    }
+   },
+   "pulseOx": {
+    "avgAltitudeInMeters": 79.0
+   },
+   "respiration": {},
+   "source": "garmin",
+   "stress": {
+    "activityProportion": 0.0,
+    "avgLevel": -1,
+    "highStressProportion": 0.0,
+    "lowStressProportion": 0.0,
+    "mediumStressProportion": 0.0,
+    "qualifier": "unknown",
+    "restProportion": 0.0,
+    "totalDurationInMillis": 86400000,
+    "uncategorizedDurationInMillis": 86400000,
+    "uncategorizedProportion": 1.0
+   },
+   "userProfilePk": 120149354,
+   "uuid": "62141f29-ed4a-40b5-94d5-abc9fb665159",
+   "wellnessChronology": {
+    "endTimestampGmt": "2026-08-10T22:00:00.0",
+    "endTimestampLocal": "2026-08-11T00:00:00.0",
+    "startTimestampGmt": "2026-08-09T22:00:00.0",
+    "startTimestampLocal": "2026-08-10T00:00:00.0",
+    "totalDurationInMillis": 86400000
+   }
+  },
+  {
+   "bodyBattery": {
+    "dynamicFeedbackEvent": {
+     "bodyBatteryLevel": "HIGH",
+     "eventTimestampGmt": "2026-08-11T21:30:14.0",
+     "feedbackLongType": "NO_DATA",
+     "feedbackShortType": "NO_DATA"
+    }
+   },
+   "calendarDate": "2026-08-11",
+   "calories": {
+    "burnedActive": 205,
+    "burnedResting": 2069,
+    "burnedTotal": 2274,
+    "consumedGoal": 2140,
+    "consumedRemaining": 2345
+   },
+   "heartRate": {},
+   "hydration": {},
+   "includesActivityData": false,
+   "includesWellnessData": true,
+   "intensityMinutes": {
+    "goal": 360,
+    "moderate": 20,
+    "vigorous": 0
+   },
+   "jetLag": {},
+   "movement": {
+    "floorsAscended": {
+     "distanceInMeters": 32.12,
+     "goal": 0,
+     "value": 10
+    },
+    "floorsDescended": {
+     "distanceInMeters": 22.26,
+     "value": 7
+    },
+    "pushes": {},
+    "steps": {
+     "distanceInMeters": 6565.0,
+     "goal": 20000,
+     "value": 8200
+    }
+   },
+   "pulseOx": {
+    "avgAltitudeInMeters": 78.0
+   },
+   "respiration": {},
+   "source": "garmin",
+   "stress": {
+    "activityProportion": 0.0,
+    "avgLevel": -1,
+    "highStressProportion": 0.0,
+    "lowStressProportion": 0.0,
+    "mediumStressProportion": 0.0,
+    "qualifier": "unknown",
+    "restProportion": 0.0,
+    "totalDurationInMillis": 86400000,
+    "uncategorizedDurationInMillis": 86400000,
+    "uncategorizedProportion": 1.0
+   },
+   "userProfilePk": 120149354,
+   "uuid": "2b670cb2-429f-435b-9840-3a9d5cf5f032",
+   "wellnessChronology": {
+    "endTimestampGmt": "2026-08-11T22:00:00.0",
+    "endTimestampLocal": "2026-08-12T00:00:00.0",
+    "startTimestampGmt": "2026-08-10T22:00:00.0",
+    "startTimestampLocal": "2026-08-11T00:00:00.0",
+    "totalDurationInMillis": 86400000
+   }
+  },
+  {
+   "bodyBattery": {
+    "dynamicFeedbackEvent": {
+     "bodyBatteryLevel": "HIGH",
+     "eventTimestampGmt": "2026-08-12T21:30:10.0",
+     "feedbackLongType": "NO_DATA",
+     "feedbackShortType": "NO_DATA"
+    }
+   },
+   "calendarDate": "2026-08-12",
+   "calories": {
+    "burnedActive": 64,
+    "burnedResting": 2069,
+    "burnedTotal": 2133,
+    "consumedGoal": 2140,
+    "consumedRemaining": 2204
+   },
+   "heartRate": {},
+   "hydration": {},
+   "includesActivityData": false,
+   "includesWellnessData": true,
+   "intensityMinutes": {
+    "goal": 360,
+    "moderate": 0,
+    "vigorous": 0
+   },
+   "jetLag": {},
+   "movement": {
+    "floorsAscended": {
+     "distanceInMeters": 26.22,
+     "goal": 0,
+     "value": 8
+    },
+    "floorsDescended": {
+     "distanceInMeters": 32.25,
+     "value": 10
+    },
+    "pushes": {},
+    "steps": {
+     "distanceInMeters": 2166.0,
+     "goal": 20000,
+     "value": 2752
+    }
+   },
+   "pulseOx": {
+    "avgAltitudeInMeters": 99.0
+   },
+   "respiration": {},
+   "source": "garmin",
+   "stress": {
+    "activityProportion": 0.0,
+    "avgLevel": -1,
+    "highStressProportion": 0.0,
+    "lowStressProportion": 0.0,
+    "mediumStressProportion": 0.0,
+    "qualifier": "unknown",
+    "restProportion": 0.0,
+    "totalDurationInMillis": 86400000,
+    "uncategorizedDurationInMillis": 86400000,
+    "uncategorizedProportion": 1.0
+   },
+   "userProfilePk": 120149354,
+   "uuid": "793d3a2b-8af6-4f25-aa28-6402a90f37ab",
+   "wellnessChronology": {
+    "endTimestampGmt": "2026-08-12T22:00:00.0",
+    "endTimestampLocal": "2026-08-13T00:00:00.0",
+    "startTimestampGmt": "2026-08-11T22:00:00.0",
+    "startTimestampLocal": "2026-08-12T00:00:00.0",
+    "totalDurationInMillis": 86400000
+   }
+  },
+  {
+   "bodyBattery": {
+    "activityEvents": [
+     {
+      "bodyBatteryImpact": -7,
+      "deviceId": 3462759976,
+      "durationInMillis": 5520000,
+      "eventStartTimeGmt": "2026-08-13T17:12:01.0",
+      "eventStartTimeLocal": "2026-08-13T19:12:01.0",
+      "eventType": "ACTIVITY",
+      "feedbackType": "EXERCISE_TRAINING_EFFECT_2",
+      "shortFeedback": "MAINTAINING_LACTATE_THRESHOLD"
+     }
+    ],
+    "dynamicFeedbackEvent": {
+     "bodyBatteryLevel": "HIGH",
+     "eventTimestampGmt": "2026-08-13T21:30:12.0",
+     "feedbackLongType": "NO_DATA",
+     "feedbackShortType": "NO_DATA"
+    }
+   },
+   "calendarDate": "2026-08-13",
+   "calories": {
+    "burnedActive": 1464,
+    "burnedResting": 2069,
+    "burnedTotal": 3533,
+    "consumedGoal": 2140,
+    "consumedRemaining": 3604
+   },
+   "heartRate": {},
+   "hydration": {
+    "consumedInFractionalMl": 0.0,
+    "consumedInMl": 0,
+    "goalInFractionalMl": 5528.0,
+    "goalInMl": 5528
+   },
+   "includesActivityData": true,
+   "includesWellnessData": true,
+   "intensityMinutes": {
+    "goal": 360,
+    "moderate": 101,
+    "vigorous": 0
+   },
+   "jetLag": {},
+   "movement": {
+    "floorsAscended": {
+     "distanceInMeters": 62.99,
+     "goal": 0,
+     "value": 20
+    },
+    "floorsDescended": {
+     "distanceInMeters": 51.63,
+     "value": 16
+    },
+    "pushes": {},
+    "steps": {
+     "distanceInMeters": 22572.0,
+     "goal": 20000,
+     "value": 21217
+    }
+   },
+   "pulseOx": {
+    "avgAltitudeInMeters": 83.0
+   },
+   "respiration": {},
+   "source": "garmin",
+   "stress": {
+    "activityProportion": 0.0,
+    "avgLevel": -1,
+    "highStressProportion": 0.0,
+    "lowStressProportion": 0.0,
+    "mediumStressProportion": 0.0,
+    "qualifier": "unknown",
+    "restProportion": 0.0,
+    "totalDurationInMillis": 86220000,
+    "uncategorizedDurationInMillis": 86220000,
+    "uncategorizedProportion": 1.0
+   },
+   "userProfilePk": 120149354,
+   "uuid": "90d18501-f57b-4aa4-ac03-9ecf59000928",
+   "wellnessChronology": {
+    "endTimestampGmt": "2026-08-13T22:00:00.0",
+    "endTimestampLocal": "2026-08-14T00:00:00.0",
+    "startTimestampGmt": "2026-08-12T22:00:00.0",
+    "startTimestampLocal": "2026-08-13T00:00:00.0",
+    "totalDurationInMillis": 86400000
+   }
+  },
+  {
+   "bodyBattery": {
+    "dynamicFeedbackEvent": {
+     "bodyBatteryLevel": "HIGH",
+     "eventTimestampGmt": "2026-08-14T19:00:11.0",
+     "feedbackLongType": "NO_DATA",
+     "feedbackShortType": "NO_DATA"
+    }
+   },
+   "calendarDate": "2026-08-14",
+   "calories": {
+    "burnedActive": 119,
+    "burnedResting": 2069,
+    "burnedTotal": 2188,
+    "consumedGoal": 2140,
+    "consumedRemaining": 2259
+   },
+   "heartRate": {},
+   "hydration": {},
+   "includesActivityData": false,
+   "includesWellnessData": true,
+   "intensityMinutes": {
+    "goal": 360,
+    "moderate": 5,
+    "vigorous": 0
+   },
+   "jetLag": {},
+   "movement": {
+    "floorsAscended": {
+     "distanceInMeters": 58.99,
+     "goal": 0,
+     "value": 19
+    },
+    "floorsDescended": {
+     "distanceInMeters": 22.56,
+     "value": 7
+    },
+    "pushes": {},
+    "steps": {
+     "distanceInMeters": 3875.0,
+     "goal": 20000,
+     "value": 4861
+    }
+   },
+   "pulseOx": {
+    "avgAltitudeInMeters": 90.0
+   },
+   "respiration": {},
+   "source": "garmin",
+   "stress": {
+    "activityProportion": 0.0,
+    "avgLevel": -1,
+    "highStressProportion": 0.0,
+    "lowStressProportion": 0.0,
+    "mediumStressProportion": 0.0,
+    "qualifier": "unknown",
+    "restProportion": 0.0,
+    "totalDurationInMillis": 86400000,
+    "uncategorizedDurationInMillis": 86400000,
+    "uncategorizedProportion": 1.0
+   },
+   "userProfilePk": 120149354,
+   "uuid": "b6412b18-92dd-4f82-9b76-98526af94638",
+   "wellnessChronology": {
+    "endTimestampGmt": "2026-08-14T22:00:00.0",
+    "endTimestampLocal": "2026-08-15T00:00:00.0",
+    "startTimestampGmt": "2026-08-13T22:00:00.0",
+    "startTimestampLocal": "2026-08-14T00:00:00.0",
+    "totalDurationInMillis": 86400000
+   }
+  },
+  {
+   "bodyBattery": {
+    "activityEvents": [
+     {
+      "bodyBatteryImpact": 0,
+      "deviceId": 3462759976,
+      "durationInMillis": 1200000,
+      "eventStartTimeGmt": "2026-08-15T12:19:01.0",
+      "eventStartTimeLocal": "2026-08-15T14:19:01.0",
+      "eventType": "NAP",
+      "feedbackType": "NONE",
+      "shortFeedback": "NONE"
+     }
+    ],
+    "dynamicFeedbackEvent": {
+     "bodyBatteryLevel": "HIGH",
+     "eventTimestampGmt": "2026-08-15T19:00:14.0",
+     "feedbackLongType": "NO_DATA",
+     "feedbackShortType": "NO_DATA"
+    }
+   },
+   "calendarDate": "2026-08-15",
+   "calories": {
+    "burnedActive": 271,
+    "burnedResting": 2069,
+    "burnedTotal": 2340,
+    "consumedGoal": 2140,
+    "consumedRemaining": 2411
+   },
+   "heartRate": {},
+   "hydration": {},
+   "includesActivityData": false,
+   "includesWellnessData": true,
+   "intensityMinutes": {
+    "goal": 360,
+    "moderate": 31,
+    "vigorous": 0
+   },
+   "jetLag": {},
+   "movement": {
+    "floorsAscended": {
+     "distanceInMeters": 58.67,
+     "goal": 0,
+     "value": 19
+    },
+    "floorsDescended": {
+     "distanceInMeters": 21.6,
+     "value": 7
+    },
+    "pushes": {},
+    "steps": {
+     "distanceInMeters": 7222.0,
+     "goal": 20000,
+     "value": 8437
+    }
+   },
+   "pulseOx": {
+    "avgAltitudeInMeters": 49.0
+   },
+   "respiration": {},
+   "source": "garmin",
+   "stress": {
+    "activityProportion": 0.0,
+    "avgLevel": -1,
+    "highStressProportion": 0.0,
+    "lowStressProportion": 0.0,
+    "mediumStressProportion": 0.0,
+    "qualifier": "unknown",
+    "restProportion": 0.0,
+    "totalDurationInMillis": 86400000,
+    "uncategorizedDurationInMillis": 86400000,
+    "uncategorizedProportion": 1.0
+   },
+   "userProfilePk": 120149354,
+   "uuid": "aae88b02-fe33-40b1-888b-abc668cf1134",
+   "wellnessChronology": {
+    "endTimestampGmt": "2026-08-15T22:00:00.0",
+    "endTimestampLocal": "2026-08-16T00:00:00.0",
+    "startTimestampGmt": "2026-08-14T22:00:00.0",
+    "startTimestampLocal": "2026-08-15T00:00:00.0",
+    "totalDurationInMillis": 86400000
+   }
+  },
+  {
+   "bodyBattery": {
+    "activityEvents": [
+     {
+      "bodyBatteryImpact": -26,
+      "deviceId": 3462759976,
+      "durationInMillis": 14220000,
+      "eventStartTimeGmt": "2026-08-16T06:06:08.0",
+      "eventStartTimeLocal": "2026-08-16T08:06:08.0",
+      "eventType": "ACTIVITY",
+      "feedbackType": "EXERCISE_TRAINING_EFFECT_3",
+      "shortFeedback": "IMPROVING_AEROBIC_BASE"
+     }
+    ],
+    "dynamicFeedbackEvent": {
+     "bodyBatteryLevel": "HIGH",
+     "eventTimestampGmt": "2026-08-16T21:30:11.0",
+     "feedbackLongType": "NO_DATA",
+     "feedbackShortType": "NO_DATA"
+    }
+   },
+   "calendarDate": "2026-08-16",
+   "calories": {
+    "burnedActive": 2890,
+    "burnedResting": 2069,
+    "burnedTotal": 4959,
+    "consumedGoal": 2140,
+    "consumedRemaining": 5030
+   },
+   "heartRate": {},
+   "hydration": {
+    "consumedInFractionalMl": 0.0,
+    "consumedInMl": 0,
+    "goalInFractionalMl": 7489.0,
+    "goalInMl": 7489
+   },
+   "includesActivityData": true,
+   "includesWellnessData": true,
+   "intensityMinutes": {
+    "goal": 360,
+    "moderate": 281,
+    "vigorous": 0
+   },
+   "jetLag": {},
+   "movement": {
+    "floorsAscended": {
+     "distanceInMeters": 1070.09,
+     "goal": 0,
+     "value": 351
+    },
+    "floorsDescended": {
+     "distanceInMeters": 1068.14,
+     "value": 350
+    },
+    "pushes": {},
+    "steps": {
+     "distanceInMeters": 42830.0,
+     "goal": 20000,
+     "value": 44321
+    }
+   },
+   "pulseOx": {
+    "avgAltitudeInMeters": 67.0
+   },
+   "respiration": {},
+   "source": "garmin",
+   "stress": {
+    "activityProportion": 0.0,
+    "avgLevel": -1,
+    "highStressProportion": 0.0,
+    "lowStressProportion": 0.0,
+    "mediumStressProportion": 0.0,
+    "qualifier": "unknown",
+    "restProportion": 0.0,
+    "totalDurationInMillis": 86280000,
+    "uncategorizedDurationInMillis": 86280000,
+    "uncategorizedProportion": 1.0
+   },
+   "userProfilePk": 120149354,
+   "uuid": "d9f8a075-e055-4475-b784-b5fa46b18110",
+   "wellnessChronology": {
+    "endTimestampGmt": "2026-08-16T22:00:00.0",
+    "endTimestampLocal": "2026-08-17T00:00:00.0",
+    "startTimestampGmt": "2026-08-15T22:00:00.0",
+    "startTimestampLocal": "2026-08-16T00:00:00.0",
+    "totalDurationInMillis": 86400000
+   }
+  },
+  {
+   "bodyBattery": {
+    "dynamicFeedbackEvent": {
+     "bodyBatteryLevel": "HIGH",
+     "eventTimestampGmt": "2026-08-17T21:30:15.0",
+     "feedbackLongType": "NO_DATA",
+     "feedbackShortType": "NO_DATA"
+    }
+   },
+   "calendarDate": "2026-08-17",
+   "calories": {
+    "burnedActive": 179,
+    "burnedResting": 2069,
+    "burnedTotal": 2248,
+    "consumedGoal": 2140,
+    "consumedRemaining": 2319
+   },
+   "heartRate": {},
+   "hydration": {},
+   "includesActivityData": false,
+   "includesWellnessData": true,
+   "intensityMinutes": {
+    "goal": 360,
+    "moderate": 4,
+    "vigorous": 0
+   },
+   "jetLag": {},
+   "movement": {
+    "floorsAscended": {
+     "distanceInMeters": 32.74,
+     "goal": 0,
+     "value": 10
+    },
+    "floorsDescended": {
+     "distanceInMeters": 26.05,
+     "value": 8
+    },
+    "pushes": {},
+    "steps": {
+     "distanceInMeters": 4676.0,
+     "goal": 20000,
+     "value": 5417
+    }
+   },
+   "pulseOx": {
+    "avgAltitudeInMeters": 94.0
+   },
+   "respiration": {},
+   "source": "garmin",
+   "stress": {
+    "activityProportion": 0.0,
+    "avgLevel": -1,
+    "highStressProportion": 0.0,
+    "lowStressProportion": 0.0,
+    "mediumStressProportion": 0.0,
+    "qualifier": "unknown",
+    "restProportion": 0.0,
+    "totalDurationInMillis": 86400000,
+    "uncategorizedDurationInMillis": 86400000,
+    "uncategorizedProportion": 1.0
+   },
+   "userProfilePk": 120149354,
+   "uuid": "c114ef03-2b5b-4db1-b3c7-0ab31ae9a7d1",
+   "wellnessChronology": {
+    "endTimestampGmt": "2026-08-17T22:00:00.0",
+    "endTimestampLocal": "2026-08-18T00:00:00.0",
+    "startTimestampGmt": "2026-08-16T22:00:00.0",
+    "startTimestampLocal": "2026-08-17T00:00:00.0",
+    "totalDurationInMillis": 86400000
+   }
+  },
+  {
+   "bodyBattery": {
+    "activityEvents": [
+     {
+      "bodyBatteryImpact": 0,
+      "deviceId": 3462759976,
+      "durationInMillis": 1020000,
+      "eventStartTimeGmt": "2026-08-18T14:53:28.0",
+      "eventStartTimeLocal": "2026-08-18T16:53:28.0",
+      "eventType": "NAP",
+      "feedbackType": "NONE",
+      "shortFeedback": "NONE"
+     }
+    ],
+    "dynamicFeedbackEvent": {
+     "bodyBatteryLevel": "HIGH",
+     "eventTimestampGmt": "2026-08-18T21:30:11.0",
+     "feedbackLongType": "NO_DATA",
+     "feedbackShortType": "NO_DATA"
+    }
+   },
+   "calendarDate": "2026-08-18",
+   "calories": {
+    "burnedActive": 277,
+    "burnedResting": 2069,
+    "burnedTotal": 2346,
+    "consumedGoal": 2140,
+    "consumedRemaining": 2417
+   },
+   "heartRate": {},
+   "hydration": {},
+   "includesActivityData": false,
+   "includesWellnessData": true,
+   "intensityMinutes": {
+    "goal": 360,
+    "moderate": 25,
+    "vigorous": 0
+   },
+   "jetLag": {},
+   "movement": {
+    "floorsAscended": {
+     "distanceInMeters": 47.45,
+     "goal": 0,
+     "value": 15
+    },
+    "floorsDescended": {
+     "distanceInMeters": 45.87,
+     "value": 15
+    },
+    "pushes": {},
+    "steps": {
+     "distanceInMeters": 7666.0,
+     "goal": 20000,
+     "value": 9091
+    }
+   },
+   "pulseOx": {
+    "avgAltitudeInMeters": 76.0
+   },
+   "respiration": {},
+   "source": "garmin",
+   "stress": {
+    "activityProportion": 0.0,
+    "avgLevel": -1,
+    "highStressProportion": 0.0,
+    "lowStressProportion": 0.0,
+    "mediumStressProportion": 0.0,
+    "qualifier": "unknown",
+    "restProportion": 0.0,
+    "totalDurationInMillis": 86400000,
+    "uncategorizedDurationInMillis": 86400000,
+    "uncategorizedProportion": 1.0
+   },
+   "userProfilePk": 120149354,
+   "uuid": "3644e58a-729e-45ce-a62e-19565a64887a",
+   "wellnessChronology": {
+    "endTimestampGmt": "2026-08-18T22:00:00.0",
+    "endTimestampLocal": "2026-08-19T00:00:00.0",
+    "startTimestampGmt": "2026-08-17T22:00:00.0",
+    "startTimestampLocal": "2026-08-18T00:00:00.0",
+    "totalDurationInMillis": 86400000
+   }
+  },
+  {
+   "bodyBattery": {
+    "dynamicFeedbackEvent": {
+     "bodyBatteryLevel": "HIGH",
+     "eventTimestampGmt": "2026-08-19T21:30:15.0",
+     "feedbackLongType": "NO_DATA",
+     "feedbackShortType": "NO_DATA"
+    }
+   },
+   "calendarDate": "2026-08-19",
+   "calories": {
+    "burnedActive": 62,
+    "burnedResting": 2069,
+    "burnedTotal": 2131,
+    "consumedGoal": 2140,
+    "consumedRemaining": 2202
+   },
+   "heartRate": {},
+   "hydration": {},
+   "includesActivityData": false,
+   "includesWellnessData": true,
+   "intensityMinutes": {
+    "goal": 360,
+    "moderate": 0,
+    "vigorous": 0
+   },
+   "jetLag": {},
+   "movement": {
+    "floorsAscended": {
+     "distanceInMeters": 21.38,
+     "goal": 0,
+     "value": 7
+    },
+    "floorsDescended": {
+     "distanceInMeters": 17.02,
+     "value": 5
+    },
+    "pushes": {},
+    "steps": {
+     "distanceInMeters": 2087.0,
+     "goal": 20000,
+     "value": 2652
+    }
+   },
+   "pulseOx": {
+    "avgAltitudeInMeters": 105.0
+   },
+   "respiration": {},
+   "source": "garmin",
+   "stress": {
+    "activityProportion": 0.0,
+    "avgLevel": -1,
+    "highStressProportion": 0.0,
+    "lowStressProportion": 0.0,
+    "mediumStressProportion": 0.0,
+    "qualifier": "unknown",
+    "restProportion": 0.0,
+    "totalDurationInMillis": 82200000,
+    "uncategorizedDurationInMillis": 82200000,
+    "uncategorizedProportion": 1.0
+   },
+   "userProfilePk": 120149354,
+   "uuid": "899e4414-ddec-4f87-a4b3-8c0f914cd1c6",
+   "wellnessChronology": {
+    "endTimestampGmt": "2026-08-19T22:00:00.0",
+    "endTimestampLocal": "2026-08-20T00:00:00.0",
+    "startTimestampGmt": "2026-08-18T22:00:00.0",
+    "startTimestampLocal": "2026-08-19T00:00:00.0",
+    "totalDurationInMillis": 86400000
+   }
+  },
+  {
+   "bodyBattery": {
+    "dynamicFeedbackEvent": {
+     "bodyBatteryLevel": "HIGH",
+     "eventTimestampGmt": "2026-08-20T21:30:11.0",
+     "feedbackLongType": "NO_DATA",
+     "feedbackShortType": "NO_DATA"
+    }
+   },
+   "calendarDate": "2026-08-20",
+   "calories": {
+    "burnedActive": 212,
+    "burnedResting": 2069,
+    "burnedTotal": 2281,
+    "consumedGoal": 2140,
+    "consumedRemaining": 2352
+   },
+   "heartRate": {},
+   "hydration": {},
+   "includesActivityData": false,
+   "includesWellnessData": true,
+   "intensityMinutes": {
+    "goal": 360,
+    "moderate": 6,
+    "vigorous": 0
+   },
+   "jetLag": {},
+   "movement": {
+    "floorsAscended": {
+     "distanceInMeters": 60.96,
+     "goal": 0,
+     "value": 20
+    },
+    "floorsDescended": {
+     "distanceInMeters": 37.47,
+     "value": 12
+    },
+    "pushes": {},
+    "steps": {
+     "distanceInMeters": 5214.0,
+     "goal": 20000,
+     "value": 5874
+    }
+   },
+   "pulseOx": {
+    "avgAltitudeInMeters": 99.0
+   },
+   "respiration": {},
+   "source": "garmin",
+   "stress": {
+    "activityProportion": 0.0,
+    "avgLevel": -1,
+    "highStressProportion": 0.0,
+    "lowStressProportion": 0.0,
+    "mediumStressProportion": 0.0,
+    "qualifier": "unknown",
+    "restProportion": 0.0,
+    "totalDurationInMillis": 81060000,
+    "uncategorizedDurationInMillis": 81060000,
+    "uncategorizedProportion": 1.0
+   },
+   "userProfilePk": 120149354,
+   "uuid": "82e6554d-08c6-4467-8a01-1d667fe633ad",
+   "wellnessChronology": {
+    "endTimestampGmt": "2026-08-20T22:00:00.0",
+    "endTimestampLocal": "2026-08-21T00:00:00.0",
+    "startTimestampGmt": "2026-08-19T22:00:00.0",
+    "startTimestampLocal": "2026-08-20T00:00:00.0",
+    "totalDurationInMillis": 86400000
+   }
+  },
+  {
+   "bodyBattery": {
+    "dynamicFeedbackEvent": {
+     "bodyBatteryLevel": "HIGH",
+     "eventTimestampGmt": "2026-08-21T21:30:11.0",
+     "feedbackLongType": "NO_DATA",
+     "feedbackShortType": "NO_DATA"
+    }
+   },
+   "calendarDate": "2026-08-21",
+   "calories": {
+    "burnedActive": 114,
+    "burnedResting": 2069,
+    "burnedTotal": 2183,
+    "consumedGoal": 2140,
+    "consumedRemaining": 2254
+   },
+   "heartRate": {},
+   "hydration": {},
+   "includesActivityData": false,
+   "includesWellnessData": true,
+   "intensityMinutes": {
+    "goal": 360,
+    "moderate": 9,
+    "vigorous": 0
+   },
+   "jetLag": {},
+   "movement": {
+    "floorsAscended": {
+     "distanceInMeters": 9.14,
+     "goal": 0,
+     "value": 3
+    },
+    "floorsDescended": {
+     "distanceInMeters": 14.27,
+     "value": 4
+    },
+    "pushes": {},
+    "steps": {
+     "distanceInMeters": 3756.0,
+     "goal": 20000,
+     "value": 4728
+    }
+   },
+   "pulseOx": {
+    "avgAltitudeInMeters": 87.0
+   },
+   "respiration": {},
+   "source": "garmin",
+   "stress": {
+    "activityProportion": 0.0,
+    "avgLevel": -1,
+    "highStressProportion": 0.0,
+    "lowStressProportion": 0.0,
+    "mediumStressProportion": 0.0,
+    "qualifier": "unknown",
+    "restProportion": 0.0,
+    "totalDurationInMillis": 79920000,
+    "uncategorizedDurationInMillis": 79920000,
+    "uncategorizedProportion": 1.0
+   },
+   "userProfilePk": 120149354,
+   "uuid": "f09268b6-2b6f-4920-bb24-fcb3249fd52d",
+   "wellnessChronology": {
+    "endTimestampGmt": "2026-08-21T22:00:00.0",
+    "endTimestampLocal": "2026-08-22T00:00:00.0",
+    "startTimestampGmt": "2026-08-20T22:00:00.0",
+    "startTimestampLocal": "2026-08-21T00:00:00.0",
+    "totalDurationInMillis": 86400000
+   }
+  },
+  {
+   "bodyBattery": {
+    "activityEvents": [
+     {
+      "bodyBatteryImpact": -10,
+      "deviceId": 3462759976,
+      "durationInMillis": 5400000,
+      "eventStartTimeGmt": "2026-08-22T07:19:47.0",
+      "eventStartTimeLocal": "2026-08-22T09:19:47.0",
+      "eventType": "ACTIVITY",
+      "feedbackType": "EXERCISE_TRAINING_EFFECT_2",
+      "shortFeedback": "MAINTAINING_LACTATE_THRESHOLD"
+     },
+     {
+      "bodyBatteryImpact": -6,
+      "deviceId": 3462759976,
+      "durationInMillis": 3300000,
+      "eventStartTimeGmt": "2026-08-22T10:01:55.0",
+      "eventStartTimeLocal": "2026-08-22T12:01:55.0",
+      "eventType": "ACTIVITY",
+      "feedbackType": "EXERCISE_TRAINING_EFFECT_2",
+      "shortFeedback": "EASY_AEROBIC"
+     },
+     {
+      "bodyBatteryImpact": 0,
+      "deviceId": 3462759976,
+      "durationInMillis": 1380000,
+      "eventStartTimeGmt": "2026-08-22T11:25:21.0",
+      "eventStartTimeLocal": "2026-08-22T13:25:21.0",
+      "eventType": "NAP",
+      "feedbackType": "NONE",
+      "shortFeedback": "NONE"
+     }
+    ],
+    "dynamicFeedbackEvent": {
+     "bodyBatteryLevel": "HIGH",
+     "eventTimestampGmt": "2026-08-22T19:00:11.0",
+     "feedbackLongType": "NO_DATA",
+     "feedbackShortType": "NO_DATA"
+    }
+   },
+   "calendarDate": "2026-08-22",
+   "calories": {
+    "burnedActive": 1976,
+    "burnedResting": 2069,
+    "burnedTotal": 4045,
+    "consumedGoal": 2140,
+    "consumedRemaining": 4116
+   },
+   "heartRate": {},
+   "hydration": {
+    "consumedInFractionalMl": 0.0,
+    "consumedInMl": 0,
+    "goalInFractionalMl": 6077.0,
+    "goalInMl": 6077
+   },
+   "includesActivityData": true,
+   "includesWellnessData": true,
+   "intensityMinutes": {
+    "goal": 360,
+    "moderate": 190,
+    "vigorous": 0
+   },
+   "jetLag": {},
+   "movement": {
+    "floorsAscended": {
+     "distanceInMeters": 388.76,
+     "goal": 0,
+     "value": 127
+    },
+    "floorsDescended": {
+     "distanceInMeters": 387.69,
+     "value": 127
+    },
+    "pushes": {},
+    "steps": {
+     "distanceInMeters": 31006.0,
+     "goal": 20000,
+     "value": 31595
+    }
+   },
+   "pulseOx": {
+    "avgAltitudeInMeters": 39.0
+   },
+   "respiration": {},
+   "source": "garmin",
+   "stress": {
+    "activityProportion": 0.0,
+    "avgLevel": -1,
+    "highStressProportion": 0.0,
+    "lowStressProportion": 0.0,
+    "mediumStressProportion": 0.0,
+    "qualifier": "unknown",
+    "restProportion": 0.0,
+    "totalDurationInMillis": 85860000,
+    "uncategorizedDurationInMillis": 85860000,
+    "uncategorizedProportion": 1.0
+   },
+   "userProfilePk": 120149354,
+   "uuid": "e9edc273-5fda-4aa9-8cb2-ecfb8f44dcdd",
+   "wellnessChronology": {
+    "endTimestampGmt": "2026-08-22T22:00:00.0",
+    "endTimestampLocal": "2026-08-23T00:00:00.0",
+    "startTimestampGmt": "2026-08-21T22:00:00.0",
+    "startTimestampLocal": "2026-08-22T00:00:00.0",
+    "totalDurationInMillis": 86400000
+   }
+  }
+ ]
+}

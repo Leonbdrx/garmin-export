@@ -1,646 +1,789 @@
 {
  "jours": {
   "2026-07-25": {
-   "stress_moyen": -1,
    "pas": 21037
   },
   "2026-07-26": {
-   "stress_moyen": -1,
    "pas": 11644
   },
   "2026-07-27": {
-   "stress_moyen": -1,
    "pas": 4200
   },
   "2026-07-28": {
-   "stress_moyen": -1,
    "pas": 5752
   },
   "2026-07-29": {
-   "stress_moyen": -1,
    "pas": 4754
   },
   "2026-07-30": {
-   "stress_moyen": -1,
    "pas": 15485
   },
   "2026-07-31": {
-   "stress_moyen": -1,
    "pas": 5062
   },
   "2026-08-01": {
-   "stress_moyen": -1,
    "pas": 37426
   },
   "2026-08-02": {
-   "stress_moyen": -1,
    "pas": 6076
   },
   "2026-08-03": {
-   "stress_moyen": -1,
    "pas": 6017
   },
   "2026-08-04": {
-   "stress_moyen": -1,
    "pas": 6489
   },
   "2026-08-05": {
-   "stress_moyen": -1,
    "pas": 26462
   },
   "2026-08-06": {
-   "stress_moyen": -1,
    "pas": 5079
   },
   "2026-08-07": {
-   "stress_moyen": -1,
    "pas": 2555
   },
   "2026-08-08": {
-   "stress_moyen": -1,
    "pas": 4735
   },
   "2026-08-09": {
-   "stress_moyen": -1,
    "pas": 39199
   },
   "2026-08-10": {
-   "stress_moyen": -1,
    "pas": 6208
   },
   "2026-08-11": {
-   "stress_moyen": -1,
    "pas": 8200
   },
   "2026-08-12": {
-   "stress_moyen": -1,
    "pas": 2752
   },
   "2026-08-13": {
-   "stress_moyen": -1,
    "pas": 21217
   },
   "2026-08-14": {
-   "stress_moyen": -1,
    "pas": 4861
   },
   "2026-08-15": {
-   "stress_moyen": -1,
    "pas": 8437
   },
   "2026-08-16": {
-   "stress_moyen": -1,
    "pas": 44321
   },
   "2026-08-17": {
-   "stress_moyen": -1,
    "pas": 5417
   },
   "2026-08-18": {
-   "stress_moyen": -1,
    "pas": 9091
   },
   "2026-08-19": {
-   "stress_moyen": -1,
    "pas": 2652
   },
   "2026-08-20": {
-   "stress_moyen": -1,
    "pas": 5874
   },
   "2026-08-21": {
-   "stress_moyen": -1,
    "pas": 4728
   },
   "2026-08-22": {
-   "stress_moyen": -1,
    "pas": 31595
   },
   "2026-08-23": {
-   "stress_moyen": -1,
    "pas": 6560
   },
   "2026-08-24": {
-   "stress_moyen": -1,
    "pas": 7062
   },
   "2026-08-25": {
-   "stress_moyen": -1,
    "pas": 9118
   },
   "2026-08-26": {
-   "stress_moyen": -1,
    "pas": 9065
   },
   "2026-08-27": {
-   "stress_moyen": -1,
    "pas": 8019
   },
   "2026-08-28": {
    "stress_moyen": 45,
-   "pas": 6681
+   "pas": 6681,
+   "fc_repos_bpm": 66,
+   "body_battery_max": 21
   },
   "2026-08-29": {
    "vfc_nuit_ms": 82,
    "sommeil_h": 6.27,
    "stress_moyen": 36,
-   "pas": 52880
+   "pas": 52880,
+   "fc_repos_bpm": 50,
+   "body_battery_max": 79
   },
   "2026-08-30": {
    "vfc_nuit_ms": 81,
    "sommeil_h": 7.25,
    "stress_moyen": 27,
-   "pas": 6211
+   "pas": 6211,
+   "fc_repos_bpm": 48,
+   "body_battery_max": 91
   },
   "2026-08-31": {
    "vfc_nuit_ms": 96,
    "sommeil_h": 6.66,
    "stress_moyen": 39,
-   "pas": 10624
+   "pas": 10624,
+   "fc_repos_bpm": 45,
+   "body_battery_max": 99
   },
   "2026-09-01": {
    "vfc_nuit_ms": 92,
    "sommeil_h": 5.84,
    "stress_moyen": 31,
-   "pas": 7968
+   "pas": 7968,
+   "fc_repos_bpm": 45,
+   "body_battery_max": 85
   },
   "2026-09-02": {
    "vfc_nuit_ms": 98,
    "sommeil_h": 6.88,
    "stress_moyen": 34,
-   "pas": 16102
+   "pas": 16102,
+   "fc_repos_bpm": 47,
+   "body_battery_max": 92
   },
   "2026-09-03": {
    "vfc_nuit_ms": 85,
    "sommeil_h": 5.2,
    "stress_moyen": 43,
-   "pas": 5584
+   "pas": 5584,
+   "fc_repos_bpm": 47,
+   "body_battery_max": 60
   },
   "2026-09-04": {
    "vfc_nuit_ms": 88,
    "sommeil_h": 5.78,
    "stress_moyen": 38,
-   "pas": 15022
+   "pas": 15022,
+   "fc_repos_bpm": 48,
+   "body_battery_max": 70
   },
   "2026-09-05": {
    "stress_moyen": 48,
-   "pas": 30506
+   "pas": 30506,
+   "fc_repos_bpm": 47,
+   "body_battery_max": 78
   },
   "2026-09-06": {
    "vfc_nuit_ms": 89,
    "sommeil_h": 9.45,
    "stress_moyen": 29,
-   "pas": 12451
+   "pas": 12451,
+   "fc_repos_bpm": 46,
+   "body_battery_max": 100
   },
   "2026-09-07": {
    "vfc_nuit_ms": 89,
    "sommeil_h": 7.98,
    "stress_moyen": 30,
-   "pas": 13939
+   "pas": 13939,
+   "fc_repos_bpm": 45,
+   "body_battery_max": 72
   },
   "2026-09-08": {
    "vfc_nuit_ms": 83,
    "sommeil_h": 7.45,
    "stress_moyen": 30,
-   "pas": 9658
+   "pas": 9658,
+   "fc_repos_bpm": 43,
+   "body_battery_max": 82
   },
   "2026-09-09": {
    "vfc_nuit_ms": 94,
    "sommeil_h": 6.78,
    "stress_moyen": 29,
-   "pas": 7962
+   "pas": 7962,
+   "fc_repos_bpm": 41,
+   "body_battery_max": 87
   },
   "2026-09-10": {
    "vfc_nuit_ms": 89,
    "sommeil_h": 7.96,
    "stress_moyen": 30,
-   "pas": 6494
+   "pas": 6494,
+   "fc_repos_bpm": 45,
+   "body_battery_max": 91
   },
   "2026-09-11": {
    "vfc_nuit_ms": 90,
    "sommeil_h": 6.43,
    "stress_moyen": 36,
-   "pas": 12098
+   "pas": 12098,
+   "fc_repos_bpm": 45,
+   "body_battery_max": 83
   },
   "2026-09-12": {
    "vfc_nuit_ms": 95,
    "sommeil_h": 8.57,
    "stress_moyen": 24,
-   "pas": 35886
+   "pas": 35886,
+   "fc_repos_bpm": 43,
+   "body_battery_max": 99
   },
   "2026-09-13": {
    "vfc_nuit_ms": 84,
    "sommeil_h": 7.25,
    "stress_moyen": 38,
-   "pas": 13996
+   "pas": 13996,
+   "fc_repos_bpm": 48,
+   "body_battery_max": 60
   },
   "2026-09-14": {
    "vfc_nuit_ms": 95,
    "sommeil_h": 7.23,
    "stress_moyen": 28,
-   "pas": 4407
+   "pas": 4407,
+   "fc_repos_bpm": 43,
+   "body_battery_max": 94
   },
   "2026-09-15": {
    "vfc_nuit_ms": 82,
    "sommeil_h": 7.07,
    "stress_moyen": 40,
-   "pas": 13187
+   "pas": 13187,
+   "fc_repos_bpm": 45,
+   "body_battery_max": 62
   },
   "2026-09-16": {
    "vfc_nuit_ms": 78,
    "sommeil_h": 6.82,
    "stress_moyen": 25,
-   "pas": 11302
+   "pas": 11302,
+   "fc_repos_bpm": 47,
+   "body_battery_max": 59
   },
   "2026-09-17": {
    "vfc_nuit_ms": 73,
    "sommeil_h": 8.23,
    "stress_moyen": 38,
-   "pas": 9403
+   "pas": 9403,
+   "fc_repos_bpm": 42,
+   "body_battery_max": 75
   },
   "2026-09-18": {
    "vfc_nuit_ms": 73,
    "sommeil_h": 6.43,
    "stress_moyen": 39,
-   "pas": 4678
+   "pas": 4678,
+   "fc_repos_bpm": 45,
+   "body_battery_max": 39
   },
   "2026-09-19": {
    "vfc_nuit_ms": 66,
    "sommeil_h": 3.83,
    "stress_moyen": 46,
-   "pas": 26540
+   "pas": 26540,
+   "fc_repos_bpm": 49,
+   "body_battery_max": 17
   },
   "2026-09-20": {
    "poids_kg": 70.0,
    "stress_moyen": 48,
-   "pas": 13767
+   "pas": 13767,
+   "fc_repos_bpm": 49,
+   "body_battery_max": 60
   },
   "2026-09-21": {
    "vfc_nuit_ms": 73,
    "sommeil_h": 6.48,
    "stress_moyen": 28,
-   "pas": 3549
+   "pas": 3549,
+   "fc_repos_bpm": 44,
+   "body_battery_max": 58
   },
   "2026-09-22": {
    "vfc_nuit_ms": 91,
    "sommeil_h": 8.08,
    "stress_moyen": 33,
-   "pas": 13346
+   "pas": 13346,
+   "fc_repos_bpm": 45,
+   "body_battery_max": 100
   },
   "2026-09-23": {
    "vfc_nuit_ms": 73,
    "sommeil_h": 7.97,
    "stress_moyen": 26,
-   "pas": 12520
+   "pas": 12520,
+   "fc_repos_bpm": 47,
+   "body_battery_max": 50
   },
   "2026-09-24": {
    "vfc_nuit_ms": 88,
    "sommeil_h": 7.97,
    "stress_moyen": 45,
-   "pas": 18109
+   "pas": 18109,
+   "fc_repos_bpm": 44,
+   "body_battery_max": 84
   },
   "2026-09-25": {
    "vfc_nuit_ms": 81,
    "sommeil_h": 6.55,
    "stress_moyen": 36,
-   "pas": 17560
+   "pas": 17560,
+   "fc_repos_bpm": 47,
+   "body_battery_max": 49
   },
   "2026-09-26": {
    "vfc_nuit_ms": 88,
    "sommeil_h": 7.51,
    "stress_moyen": 27,
-   "pas": 15065
+   "pas": 15065,
+   "fc_repos_bpm": 44,
+   "body_battery_max": 89
   },
   "2026-09-27": {
    "vfc_nuit_ms": 98,
    "sommeil_h": 9.03,
    "stress_moyen": 28,
-   "pas": 14647
+   "pas": 14647,
+   "fc_repos_bpm": 44,
+   "body_battery_max": 100
   },
   "2026-09-28": {
    "vfc_nuit_ms": 89,
    "sommeil_h": 7.72,
    "stress_moyen": 33,
-   "pas": 18804
+   "pas": 18804,
+   "fc_repos_bpm": 48,
+   "body_battery_max": 67
   },
   "2026-09-29": {
    "vfc_nuit_ms": 86,
    "sommeil_h": 6.72,
    "stress_moyen": 32,
-   "pas": 16108
+   "pas": 16108,
+   "fc_repos_bpm": 43,
+   "body_battery_max": 87
   },
   "2026-09-30": {
    "vfc_nuit_ms": 80,
    "sommeil_h": 7.37,
    "stress_moyen": 27,
-   "pas": 24157
+   "pas": 24157,
+   "fc_repos_bpm": 46,
+   "body_battery_max": 60
   },
   "2026-10-01": {
    "vfc_nuit_ms": 93,
    "sommeil_h": 8.03,
    "stress_moyen": 23,
-   "pas": 18379
+   "pas": 18379,
+   "fc_repos_bpm": 43,
+   "body_battery_max": 100
   },
   "2026-10-02": {
    "vfc_nuit_ms": 91,
    "sommeil_h": 6.78,
    "stress_moyen": 26,
-   "pas": 27683
+   "pas": 27683,
+   "fc_repos_bpm": 44,
+   "body_battery_max": 88
   },
   "2026-10-03": {
    "vfc_nuit_ms": 80,
    "sommeil_h": 6.88,
    "stress_moyen": 25,
-   "pas": 27205
+   "pas": 27205,
+   "fc_repos_bpm": 46,
+   "body_battery_max": 70
   },
   "2026-10-04": {
    "stress_moyen": 27,
-   "pas": 5579
+   "pas": 5579,
+   "fc_repos_bpm": 45,
+   "body_battery_max": 84
   },
   "2026-10-05": {
    "vfc_nuit_ms": 86,
    "sommeil_h": 7.6,
    "stress_moyen": 26,
-   "pas": 30617
+   "pas": 30617,
+   "fc_repos_bpm": 43,
+   "body_battery_max": 99
   },
   "2026-10-06": {
    "vfc_nuit_ms": 87,
    "sommeil_h": 7.4,
    "stress_moyen": 20,
-   "pas": 24418
+   "pas": 24418,
+   "fc_repos_bpm": 43,
+   "body_battery_max": 92
   },
   "2026-10-07": {
    "vfc_nuit_ms": 88,
    "sommeil_h": 8.65,
    "stress_moyen": 25,
-   "pas": 28761
+   "pas": 28761,
+   "fc_repos_bpm": 46,
+   "body_battery_max": 100
   },
   "2026-10-08": {
    "vfc_nuit_ms": 86,
    "sommeil_h": 5.3,
    "stress_moyen": 21,
-   "pas": 12201
+   "pas": 12201,
+   "fc_repos_bpm": 42,
+   "body_battery_max": 71
   },
   "2026-10-09": {
    "stress_moyen": 48,
-   "pas": 23520
+   "pas": 23520,
+   "fc_repos_bpm": 45,
+   "body_battery_max": 78
   },
   "2026-10-10": {
    "vfc_nuit_ms": 89,
    "sommeil_h": 7.75,
    "stress_moyen": 22,
-   "pas": 19156
+   "pas": 19156,
+   "fc_repos_bpm": 43,
+   "body_battery_max": 100
   },
   "2026-10-11": {
    "vfc_nuit_ms": 95,
    "sommeil_h": 8.15,
    "stress_moyen": 24,
-   "pas": 36738
+   "pas": 36738,
+   "fc_repos_bpm": 45,
+   "body_battery_max": 100
   },
   "2026-10-12": {
    "vfc_nuit_ms": 88,
    "sommeil_h": 8.48,
    "stress_moyen": 22,
-   "pas": 12540
+   "pas": 12540,
+   "fc_repos_bpm": 45,
+   "body_battery_max": 100
   },
   "2026-10-13": {
    "vfc_nuit_ms": 95,
    "sommeil_h": 7.98,
    "stress_moyen": 27,
-   "pas": 13405
+   "pas": 13405,
+   "fc_repos_bpm": 42,
+   "body_battery_max": 100
   },
   "2026-10-14": {
    "vfc_nuit_ms": 92,
    "sommeil_h": 8.85,
    "stress_moyen": 26,
-   "pas": 18544
+   "pas": 18544,
+   "fc_repos_bpm": 43,
+   "body_battery_max": 100
   },
   "2026-10-15": {
    "vfc_nuit_ms": 86,
    "sommeil_h": 7.72,
    "stress_moyen": 26,
-   "pas": 18883
+   "pas": 18883,
+   "fc_repos_bpm": 47,
+   "body_battery_max": 88
   },
   "2026-10-16": {
    "vfc_nuit_ms": 95,
    "sommeil_h": 8.03,
    "stress_moyen": 28,
-   "pas": 6140
+   "pas": 6140,
+   "fc_repos_bpm": 42,
+   "body_battery_max": 100
   },
   "2026-10-17": {
    "vfc_nuit_ms": 101,
    "sommeil_h": 7.93,
    "stress_moyen": 23,
-   "pas": 4820
+   "pas": 4820,
+   "fc_repos_bpm": 44,
+   "body_battery_max": 100
   },
   "2026-10-18": {
    "stress_moyen": 47,
-   "pas": 50855
+   "pas": 50855,
+   "fc_repos_bpm": 48,
+   "body_battery_max": 37
   },
   "2026-10-19": {
    "vfc_nuit_ms": 93,
    "sommeil_h": 8.87,
    "stress_moyen": 18,
-   "pas": 10724
+   "pas": 10724,
+   "fc_repos_bpm": 43,
+   "body_battery_max": 90
   },
   "2026-10-20": {
    "vfc_nuit_ms": 97,
    "sommeil_h": 8.52,
    "stress_moyen": 26,
-   "pas": 7278
+   "pas": 7278,
+   "fc_repos_bpm": 43,
+   "body_battery_max": 100
   },
   "2026-10-21": {
    "vfc_nuit_ms": 90,
    "sommeil_h": 8.17,
    "stress_moyen": 36,
-   "pas": 15289
+   "pas": 15289,
+   "fc_repos_bpm": 44,
+   "body_battery_max": 100
   },
   "2026-10-22": {
    "vfc_nuit_ms": 85,
    "sommeil_h": 6.78,
    "stress_moyen": 28,
-   "pas": 14213
+   "pas": 14213,
+   "fc_repos_bpm": 46,
+   "body_battery_max": 79
   },
   "2026-10-23": {
    "stress_moyen": 52,
-   "pas": 21900
+   "pas": 21900,
+   "fc_repos_bpm": 48,
+   "body_battery_max": 77
   },
   "2026-10-24": {
    "vfc_nuit_ms": 75,
    "sommeil_h": 9.33,
    "stress_moyen": 32,
-   "pas": 13924
+   "pas": 13924,
+   "fc_repos_bpm": 48,
+   "body_battery_max": 81
   },
   "2026-10-25": {
    "vfc_nuit_ms": 83,
    "sommeil_h": 7.62,
    "stress_moyen": 25,
-   "pas": 4134
+   "pas": 4134,
+   "fc_repos_bpm": 46,
+   "body_battery_max": 88
   },
   "2026-10-26": {
    "vfc_nuit_ms": 78,
    "sommeil_h": 7.48,
    "stress_moyen": 25,
-   "pas": 22927
+   "pas": 22927,
+   "fc_repos_bpm": 47,
+   "body_battery_max": 98
   },
   "2026-10-27": {
    "vfc_nuit_ms": 87,
    "sommeil_h": 7.25,
    "stress_moyen": 23,
-   "pas": 16738
+   "pas": 16738,
+   "fc_repos_bpm": 45,
+   "body_battery_max": 89
   },
   "2026-10-28": {
    "vfc_nuit_ms": 90,
    "sommeil_h": 7.43,
    "stress_moyen": 28,
-   "pas": 17864
+   "pas": 17864,
+   "fc_repos_bpm": 43,
+   "body_battery_max": 100
   },
   "2026-10-29": {
    "vfc_nuit_ms": 90,
    "sommeil_h": 7.85,
    "stress_moyen": 27,
-   "pas": 18984
+   "pas": 18984,
+   "fc_repos_bpm": 43,
+   "body_battery_max": 100
   },
   "2026-10-30": {
    "vfc_nuit_ms": 84,
    "sommeil_h": 7.52,
    "stress_moyen": 40,
-   "pas": 8589
+   "pas": 8589,
+   "fc_repos_bpm": 45,
+   "body_battery_max": 93
   },
   "2026-10-31": {
    "vfc_nuit_ms": 87,
    "sommeil_h": 7.53,
    "stress_moyen": 42,
-   "pas": 7979
+   "pas": 7979,
+   "fc_repos_bpm": 45,
+   "body_battery_max": 85
   },
   "2026-11-01": {
    "vfc_nuit_ms": 80,
    "sommeil_h": 6.25,
    "stress_moyen": 42,
-   "pas": 12009
+   "pas": 12009,
+   "fc_repos_bpm": 48,
+   "body_battery_max": 59
   },
   "2026-11-02": {
    "vfc_nuit_ms": 75,
    "poids_kg": 70.0,
    "sommeil_h": 6.92,
    "stress_moyen": 33,
-   "pas": 2538
+   "pas": 2538,
+   "fc_repos_bpm": 48,
+   "body_battery_max": 56
   },
   "2026-11-03": {
    "vfc_nuit_ms": 87,
    "sommeil_h": 6.9,
    "stress_moyen": 36,
-   "pas": 10925
+   "pas": 10925,
+   "fc_repos_bpm": 46,
+   "body_battery_max": 82
   },
   "2026-11-04": {
    "vfc_nuit_ms": 77,
    "poids_kg": 69.5,
    "sommeil_h": 7.48,
    "stress_moyen": 45,
-   "pas": 16951
+   "pas": 16951,
+   "fc_repos_bpm": 49,
+   "body_battery_max": 59
   },
   "2026-11-05": {
    "vfc_nuit_ms": 81,
    "sommeil_h": 7.05,
    "stress_moyen": 37,
-   "pas": 8544
+   "pas": 8544,
+   "fc_repos_bpm": 49,
+   "body_battery_max": 45
   },
   "2026-11-06": {
    "vfc_nuit_ms": 79,
    "sommeil_h": 7.11,
    "stress_moyen": 38,
-   "pas": 11360
+   "pas": 11360,
+   "fc_repos_bpm": 48,
+   "body_battery_max": 64
   },
   "2026-11-07": {
    "vfc_nuit_ms": 75,
    "sommeil_h": 7.7,
    "stress_moyen": 35,
-   "pas": 13090
+   "pas": 13090,
+   "fc_repos_bpm": 50,
+   "body_battery_max": 57
   },
   "2026-11-08": {
    "vfc_nuit_ms": 84,
    "sommeil_h": 7.63,
    "stress_moyen": 26,
-   "pas": 15275
+   "pas": 15275,
+   "fc_repos_bpm": 44,
+   "body_battery_max": 85
   },
   "2026-11-09": {
    "vfc_nuit_ms": 96,
    "sommeil_h": 7.2,
    "stress_moyen": 30,
-   "pas": 7534
+   "pas": 7534,
+   "fc_repos_bpm": 47,
+   "body_battery_max": 84
   },
   "2026-11-10": {
    "vfc_nuit_ms": 95,
    "sommeil_h": 8.48,
    "stress_moyen": 35,
-   "pas": 13571
+   "pas": 13571,
+   "fc_repos_bpm": 44,
+   "body_battery_max": 100
   },
   "2026-11-11": {
    "vfc_nuit_ms": 81,
    "sommeil_h": 5.72,
    "stress_moyen": 28,
-   "pas": 10994
+   "pas": 10994,
+   "fc_repos_bpm": 46,
+   "body_battery_max": 71
   },
   "2026-11-12": {
    "vfc_nuit_ms": 88,
    "sommeil_h": 7.42,
    "stress_moyen": 31,
-   "pas": 13205
+   "pas": 13205,
+   "fc_repos_bpm": 45,
+   "body_battery_max": 96
   },
   "2026-11-13": {
    "vfc_nuit_ms": 83,
    "sommeil_h": 6.3,
    "stress_moyen": 32,
-   "pas": 3192
+   "pas": 3192,
+   "fc_repos_bpm": 46,
+   "body_battery_max": 68
   },
   "2026-11-14": {
    "stress_moyen": 70,
-   "pas": 24328
+   "pas": 24328,
+   "fc_repos_bpm": 49,
+   "body_battery_max": 81
   },
   "2026-11-15": {
    "vfc_nuit_ms": 69,
    "sommeil_h": 5.03,
    "stress_moyen": 43,
-   "pas": 3574
+   "pas": 3574,
+   "fc_repos_bpm": 50,
+   "body_battery_max": 31
   },
   "2026-11-16": {
    "vfc_nuit_ms": 89,
    "sommeil_h": 6.77,
    "stress_moyen": 26,
-   "pas": 8736
+   "pas": 8736,
+   "fc_repos_bpm": 43,
+   "body_battery_max": 79
   },
   "2026-11-17": {
    "vfc_nuit_ms": 96,
    "sommeil_h": 6.72,
    "stress_moyen": 42,
-   "pas": 20834
+   "pas": 20834,
+   "fc_repos_bpm": 41,
+   "body_battery_max": 96
   },
   "2026-11-18": {
    "vfc_nuit_ms": 90,
    "sommeil_h": 7.23,
    "stress_moyen": 28,
-   "pas": 14625
+   "pas": 14625,
+   "fc_repos_bpm": 45,
+   "body_battery_max": 84
   },
   "2026-11-19": {
    "vfc_nuit_ms": 91,
    "sommeil_h": 7.77,
    "stress_moyen": 38,
-   "pas": 10023
+   "pas": 10023,
+   "fc_repos_bpm": 43,
+   "body_battery_max": 95
   },
   "2026-11-20": {
    "vfc_nuit_ms": 98,
    "sommeil_h": 6.98,
    "stress_moyen": 29,
-   "pas": 9454
+   "pas": 9454,
+   "fc_repos_bpm": 46,
+   "body_battery_max": 83
   },
   "2026-11-21": {
    "vfc_nuit_ms": 85,
    "sommeil_h": 6.77,
    "stress_moyen": 39,
-   "pas": 20130
+   "pas": 20130,
+   "fc_repos_bpm": 47,
+   "body_battery_max": 78
   },
   "2026-11-22": {
-   "stress_moyen": 25
+   "stress_moyen": 17,
+   "vfc_nuit_ms": 91,
+   "fc_repos_bpm": 44,
+   "sommeil_h": 9.52,
+   "body_battery_max": 89,
+   "pas": 9909
   }
  },
  "seances": {
@@ -2268,11 +2411,24 @@
    "dplus_m": 673.0,
    "fc_moy": 147.0,
    "fc_max": 165.0
+  },
+  "25160725441": {
+   "id": 25160725441,
+   "date": "2026-11-22",
+   "heure": "10:08",
+   "nom": "Caen Course à pied",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 53.3,
+   "km": 9.66,
+   "dplus_m": 74.0,
+   "fc_moy": 148.0,
+   "fc_max": 165.0
   }
  },
- "mis_a_jour": "2026-11-22T08:58:11+01:00",
+ "mis_a_jour": "2026-11-22T14:46:07+01:00",
  "derniere_fenetre": {
-  "debut": "2026-11-13",
+  "debut": "2026-07-26",
   "fin": "2026-11-22"
  }
 }
