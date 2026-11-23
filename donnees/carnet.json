@@ -778,12 +778,20 @@
    "body_battery_max": 78
   },
   "2026-11-22": {
-   "stress_moyen": 17,
+   "stress_moyen": 23,
    "vfc_nuit_ms": 91,
    "fc_repos_bpm": 44,
    "sommeil_h": 9.52,
    "body_battery_max": 89,
-   "pas": 9909
+   "pas": 11542
+  },
+  "2026-11-23": {
+   "vfc_nuit_ms": 90,
+   "fc_repos_bpm": 46,
+   "sommeil_h": 6.59,
+   "stress_moyen": 20,
+   "body_battery_max": 85,
+   "pas": 90
   }
  },
  "seances": {
@@ -2426,9 +2434,9 @@
    "fc_max": 165.0
   }
  },
- "mis_a_jour": "2026-11-22T15:16:16+01:00",
+ "mis_a_jour": "2026-11-23T09:16:39+01:00",
  "derniere_fenetre": {
-  "debut": "2026-11-20",
-  "fin": "2026-11-22"
+  "debut": "2026-11-14",
+  "fin": "2026-11-23"
  }
 }
