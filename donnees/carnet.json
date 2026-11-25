@@ -797,9 +797,17 @@
    "vfc_nuit_ms": 89,
    "fc_repos_bpm": 43,
    "sommeil_h": 7.64,
-   "stress_moyen": 16,
+   "stress_moyen": 30,
    "body_battery_max": 96,
-   "pas": 844
+   "pas": 20721
+  },
+  "2026-11-25": {
+   "vfc_nuit_ms": 83,
+   "fc_repos_bpm": 44,
+   "sommeil_h": 7.87,
+   "stress_moyen": 15,
+   "body_battery_max": 90,
+   "pas": 391
   }
  },
  "seances": {
@@ -2440,11 +2448,37 @@
    "dplus_m": 74.0,
    "fc_moy": 148.0,
    "fc_max": 165.0
+  },
+  "25184152170": {
+   "id": 25184152170,
+   "date": "2026-11-24",
+   "heure": "14:01",
+   "nom": "Course à pied sur tapis roulant",
+   "type_garmin": "treadmill_running",
+   "categorie": "Course",
+   "duree_min": 55.1,
+   "km": 9.24,
+   "dplus_m": null,
+   "fc_moy": 157.0,
+   "fc_max": 172.0
+  },
+  "25187183465": {
+   "id": 25187183465,
+   "date": "2026-11-24",
+   "heure": "18:44",
+   "nom": "Course à pied sur tapis roulant",
+   "type_garmin": "treadmill_running",
+   "categorie": "Course",
+   "duree_min": 50.2,
+   "km": 8.0,
+   "dplus_m": null,
+   "fc_moy": 155.0,
+   "fc_max": 178.0
   }
  },
- "mis_a_jour": "2026-11-24T09:15:13+01:00",
+ "mis_a_jour": "2026-11-25T09:19:26+01:00",
  "derniere_fenetre": {
-  "debut": "2026-11-15",
-  "fin": "2026-11-24"
+  "debut": "2026-11-16",
+  "fin": "2026-11-25"
  }
 }
