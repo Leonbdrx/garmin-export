@@ -1,0 +1,102 @@
+[
+ {
+  "calendarDate": "2026-11-18",
+  "values": {
+   "highStressDuration": 3480,
+   "lowStressDuration": 11700,
+   "mediumStressDuration": 8520,
+   "overallStressLevel": 28,
+   "restStressDuration": 43260
+  }
+ },
+ {
+  "calendarDate": "2026-11-19",
+  "values": {
+   "highStressDuration": 12360,
+   "lowStressDuration": 11220,
+   "mediumStressDuration": 11400,
+   "overallStressLevel": 38,
+   "restStressDuration": 33300
+  }
+ },
+ {
+  "calendarDate": "2026-11-20",
+  "values": {
+   "highStressDuration": 1740,
+   "lowStressDuration": 21300,
+   "mediumStressDuration": 8220,
+   "overallStressLevel": 29,
+   "restStressDuration": 36900
+  }
+ },
+ {
+  "calendarDate": "2026-11-21",
+  "values": {
+   "highStressDuration": 7140,
+   "lowStressDuration": 13740,
+   "mediumStressDuration": 13440,
+   "overallStressLevel": 39,
+   "restStressDuration": 27000
+  }
+ },
+ {
+  "calendarDate": "2026-11-22",
+  "values": {
+   "highStressDuration": 900,
+   "lowStressDuration": 5820,
+   "mediumStressDuration": 4680,
+   "overallStressLevel": 23,
+   "restStressDuration": 32580
+  }
+ },
+ {
+  "calendarDate": "2026-11-23",
+  "values": {
+   "highStressDuration": 2460,
+   "lowStressDuration": 24000,
+   "mediumStressDuration": 12480,
+   "overallStressLevel": 32,
+   "restStressDuration": 33120
+  }
+ },
+ {
+  "calendarDate": "2026-11-24",
+  "values": {
+   "highStressDuration": 4440,
+   "lowStressDuration": 15360,
+   "mediumStressDuration": 8700,
+   "overallStressLevel": 30,
+   "restStressDuration": 33660
+  }
+ },
+ {
+  "calendarDate": "2026-11-25",
+  "values": {
+   "highStressDuration": 1800,
+   "lowStressDuration": 14220,
+   "mediumStressDuration": 7140,
+   "overallStressLevel": 26,
+   "restStressDuration": 42120
+  }
+ },
+ {
+  "calendarDate": "2026-11-26",
+  "values": {
+   "highStressDuration": 4080,
+   "lowStressDuration": 15780,
+   "mediumStressDuration": 7500,
+   "overallStressLevel": 30,
+   "restStressDuration": 37380
+  }
+ },
+ {
+  "calendarDate": "2026-11-27",
+  "values": {
+   "highStressDuration": 660,
+   "lowStressDuration": 1020,
+   "mediumStressDuration": 960,
+   "overallStressLevel": 13,
+   "restStressDuration": 21540
+  }
+ }
+]
