@@ -821,9 +821,17 @@
    "vfc_nuit_ms": 94,
    "fc_repos_bpm": 43,
    "sommeil_h": 7.95,
-   "stress_moyen": 13,
+   "stress_moyen": 28,
    "body_battery_max": 96,
-   "pas": 455
+   "pas": 11202
+  },
+  "2026-11-28": {
+   "vfc_nuit_ms": 82,
+   "fc_repos_bpm": 44,
+   "sommeil_h": 6.28,
+   "stress_moyen": 19,
+   "body_battery_max": 76,
+   "pas": 13
   }
  },
  "seances": {
@@ -2542,11 +2550,24 @@
    "dplus_m": null,
    "fc_moy": 152.0,
    "fc_max": 172.0
+  },
+  "25217395924": {
+   "id": 25217395924,
+   "date": "2026-11-27",
+   "heure": "17:15",
+   "nom": "Caen - Z2",
+   "type_garmin": "running",
+   "categorie": "Course",
+   "duree_min": 43.7,
+   "km": 7.95,
+   "dplus_m": 86.0,
+   "fc_moy": 149.0,
+   "fc_max": 181.0
   }
  },
- "mis_a_jour": "2026-11-27T09:16:32+01:00",
+ "mis_a_jour": "2026-11-28T09:02:13+01:00",
  "derniere_fenetre": {
-  "debut": "2026-11-18",
-  "fin": "2026-11-27"
+  "debut": "2026-11-19",
+  "fin": "2026-11-28"
  }
 }
